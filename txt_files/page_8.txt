@@ -1,0 +1,47 @@
+After the baseline program cost values were established
+(modeled), a list of candidate cost variables was
+established. These variables represent cost reduction
+approaches that address virtually all elements
+comprising the total program cost. The list of
+candidate variables was divided into Primary and
+Secondary Cost Variables.
+The Primary Cost Variables were targeted as items that
+could be controlled by the contracting agency. This
+control could be exerted either by specifications or
+special instructions to exclude/include the activity
+from a normal spacecraft development approach.
+The Secondary Cost Variables were items that would
+probably be controlled by the contractor. The
+contracting agency may have an influence on these cost
+variables, but the ultimate control responsibility
+rests with the contractor. Controlling these cost
+elements often becomes a management challenge to
+diverge from current culture.
+All of the investigated candidate variables had a
+potential for program cost savings. Each had three
+options or degrees of sensitivity. This implied that
+the activities associated with candidate variables
+could be implemented completely or as a subset.
+The automated database/model (DARPASS) contains the
+cost results for each item/task for each candidate
+variable (Primary and Secondary) and the three options
+for each. The total number of results derived as a
+product of this study exceeds 45,000.
+1.3 STUDY RESULTS AND CONCLUSIONS
+The results of the study have identified several
+discrete areas of legitimate cost savings. Eleven
+candidate variables were evaluated in detail; five
+Primary and six Secondary Cost Variables. Each
+variable had its own unique impact on the Development,
+PEP, and Production Phases.
+Some Cost Variables exhibited large cost savings in one
+phase and may have exhibited a large cost investment in
+another phase because to achieve a cost savings, an
+investment in equipment/design or another resource may
+have to be made. Many of the Cost Variables showed a
+cost savings/investment in only one or two of the three
+phases. Where no cost savings/investments values were
+present, these results indicated that there was no cost
+impact associated with the variable in those particular
+phases.
+EXECUTIVE SUMMARY -3

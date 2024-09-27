@@ -1,0 +1,39 @@
+3.3 OTHER COST VARIABLES EVALUATED
+1) PRIME CONTRACTOR/TEAMMATE EXPERIENCE
+The variable addresses the cost impact of using contractors
+that have experience in developing flight hardware versus
+those that have little or no experience. The actual
+equipment needed does not currently exist (as with Variable
+1), requiring a given knowledge level to adequately develop
+the necessary components.
+Weight:
+Oualitative Scale
+B) Poor contractor experience. Contractors have little or
+no experience in developing flight hardware. Products
+are not part of the company's regular product line.
+The equipment represents new technology to the
+company. Much interfacing will be required to derive
+the necessary requirements. Consultants may be
+required to supplement existing contractor knowledge.
+1) Moderate contractor experience. Contractors appear to
+have the technological capabilities to develop the
+required products. Company has limited experience in
+developing flight hardware. No similar products have
+been developed by the contractor. Current product
+lines are similar in terms of the level of technology
+required.
+2) Good contractor experience. Teammates are known for
+their capabilities in their respective product lines.
+Technological product requirements are well within
+their normal lines of business. In some cases similar
+products have been developed.
+3) Excellent contractor experience. Teammates have
+extensive experience in individual product areas.
+Teammates are industry leaders in their respective
+product lines. Product requirements closely match
+existing product lines although existing equipment is
+still not available. Level of technology not an issue.
+RCA Model Parameters
+Notes:
+-Change ECMPLX for all items.
+CANDIDATE VARIABLES -23

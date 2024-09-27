@@ -1,0 +1,37 @@
+3) SYSTEM MODULARITY/DESIGN MODULARITY
+This variable addresses the cost impact of a modular versus
+a non-modular design and how modular design affects design
+and production costs.Weight:
+Qualitative Scale
+B) Satellite and payload are essentially non-modular in
+nature. Swapping of components/assemblies achieved
+only with a great degree of difficulty. Much
+recertification/testing required when components or
+assemblies need to be replaced. Other subsystems are
+often significantly affected by changes to neighboring
+subsystems.
+1) Some of the more critical assemblies are modular in
+nature; overall vehicle and subsystems require more
+traditional satellite production methods with
+subsystems more like black boxes. Other subsystems are
+often affected by changes to neighboring subsystems.
+2) Component parts are modular in nature; subsystems are
+not. Production of individual subsystems occurs in
+assembly line fashion while system assembly requires
+more traditional methods. Changes to individual
+subsystems do not generally affect the neighboring
+subsystems. Some use of plug-in circuit boards and
+common wiring busses.
+3) High use of modular components and subsystems.
+Production operations simulate an assembly line.
+Changes to individual subsystems do not generally
+affect the neighboring subsystems. Extensive use of
+plug-in circuit boards and common wiring busses.
+RCA Model Parameters
+Notes:
+-Global changes for both prime and teammates as indicated.
+-None of the pure structural items/mechanisms should be
+changed.
+-Changes only to subsystems where modularity would enhance
+assembl., and test effort, i.e., TT&C, Payload, C&DH, etc.
+CANDIDATE VARIABLES -5

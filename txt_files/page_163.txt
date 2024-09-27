@@ -1,0 +1,33 @@
+The user has two other decisions to make when viewing this cost
+information. The first is what combination of Design/
+Development, PEP, and Production costs will be displayed (there
+are separate cost tables for each activity). The previous
+example displays a table that reflects the DEVELOPMENT PHASE,
+TOTAL COST VALUES.
+The second decision determines whether or not the cost values
+will be displayed as total cost values, unit cost values (total
+dollars/ production quantity), or cost savings values. The
+previous table reflects an example of TOTAL COST VALUES. COST
+SAVINGS VALUES are the discrete dollars saved compared to the
+baseline costs, due to the approach selected using the Primary
+and Secondary Cost Variables. The menus for selecting the
+desired combination of "phase of development" and "type of cost"
+output information are shown below.
+PHASE OF DEVELOPMENT
+1 -Development Phase
+2 -PEP Phase
+3 -Production Phase
+4 -Totals Only
+COST VALUE
+Total Cost
+Unit Cost
+Cost Savings
+The output display for PEP or Production and unit cost values or
+cost savings values are essentially the same as our DEVELOPMENT
+PHASE TOTAL COST sample table, except for the title line and the
+cost values themselves. The title lines are very important in
+distinguishing the output information being displayed. Some
+sample title blocks for specific output tables are displayed
+below:
+B-5
+S-% -. ."

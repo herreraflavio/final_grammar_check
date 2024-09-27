@@ -1,0 +1,42 @@
+r?" X A77 ., -7 W7 V. F%
+2.3 PHASE DESCRIPTIONS
+2.3.1 BASELINE DEVELOPMENT
+To model and estimate the development phase costs,
+the parametric estimating group evaluated the
+scope of work to be accomplished during this
+period. The end product of the Development Phase
+was two protoflight units and the supporting build
+and test equipment.
+The equipment lists in figures 2.2-1 to 2.2-4,
+show the items that were modeled and estimated.
+Following is a list of programmatic assumptions
+that, coupled with the equipment list, details
+what was included in the development baseline
+costs.
+1) Two protoflight (flight qualified) units were
+designed and built under the Development
+segment. A low level of scrap parts/
+assemblies were factored into this effort.
+2) Manufacturing spares were included.
+3) There was a robust level of systems/
+subsystems design and analysis for the
+demonstration units.
+4) The spacecraft/payload required the highest
+possible performance/reliability -Class S
+electrical parts were required. This level
+of screening included RF components.
+5) Traditional Space Division type contractual
+requirements included high reliability,
+extensive documentation, extensive
+environmental-acceptance-systems testing,
+narrow tolerances, expensive structural
+materials, and the Aerospace Corporation
+involvement.
+6) All documentation was to form and
+deliverable.
+7) Launch vehicle interface loads and interfaces
+were assumed to be worst case (complex).
+8) An inert mass simulator was built to support
+mass properties, tooling fit checks, some
+testing, and design changes.
+METHODOLOGY -7

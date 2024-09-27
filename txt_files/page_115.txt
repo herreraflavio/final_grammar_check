@@ -1,0 +1,39 @@
+2) TEAMMATE EFFORT/TEAMMATE RELATIONSHIPS
+This variable addresses the cost effect of the level of
+subcontracting. When more of the job is subcontracted, the
+prime contractor must coordinate many subcontractors. This
+variable also addresses the cost impact of the relationships
+between the prime contractor and its teammates and/or
+subcontractors.
+Weight:
+Qualitative Scale
+B) Teammate effort represents large amount of the total
+effort (from a cost value reference). Many critical
+flight components are spread amongst many different
+contractors. Working relationships are slow to
+develop. Poor support from many of the team members.
+Many new teammates involved without structured channels
+of communication.
+1) Teammate effort represents greater than half of the
+total effort (from a cost value reference). Some
+critical flight components are spread between many
+different contractors. There are many new teammates.
+Teammates appear supportive of the prime contractor.
+Proper channels of communication are still being
+developed.
+2) Teammate effort represents between 25 and 50% of the
+total effort (from a cost value reference). Critical
+flight components are generally apportioned by
+teammates. Prime contractor has established good
+working relationships with teammates. Teammates are
+actively involved in most important contract issues.
+3) Teammate effort represents less then 25% of the total
+effort. Prime contractor has worked extensively with
+teammates. Critical flight components are segregated
+by teammates. Working relationships appear excellent
+with all members actively participating.
+RCA Model Parameters
+Notes:
+-Subcontractor G&A and profit must be lowered when WRAPping
+(post processing) files.
+CANDIDATE VARIABLES -25

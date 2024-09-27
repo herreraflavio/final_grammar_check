@@ -1,0 +1,14 @@
+Data Sublevel
+1 -Structures
+2 -EPS
+3 -TT&C
+4 -Thermal
+5 -ACS
+6 -C&DH
+7 -Payload
+8 -Software
+9 -Totals Only
+The user is able to select one of the options from the DATA
+SUBLEVEL menu. The combined values of all the Data Sublevel
+items are presented with the selection of TOTALS ONLY.
+DARPASS -Page 13

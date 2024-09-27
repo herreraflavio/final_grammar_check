@@ -1,0 +1,41 @@
+9) MANUAL VERSUS AUTOMATED MANUFACTURING & TEST METHODS
+This variable addresses the cost savings/added costs of
+using automated, autonomous type manufacturing machine tools
+versus traditional labor intensive machine tools. It also
+addresses the added costs/savings of using automated test
+methods.Weight:
+Oualitative Scale
+B) Many manufacturing operations use labor intensive,
+manually operated machine tools. Continuous equipment
+monitoring required. Parts need to be checked often
+for equipment drift. Essentially manual testing.
+Automated test tools are expensive to produce and thus
+are not economically efficient.
+1) Most production operations are performed on older, more
+traditional machine tool equipment. Some critical
+operations are performed on newer machine tools
+providing some improvement in manufacturing
+efficiency. Some test tools are available due to low
+cost. Some enhancement to testing efficiency realized
+due to use of these test tools.
+2) Automated/computer enhanced manufacturing methods are
+used in most complex operations. These tools reduce
+production costs. Tools are available on the factory
+-floor -no special equipment is purchased. Test tools
+are available in most critical aspects of testing
+activities. Significant improvement over manual
+testing.
+3) Extensive use of automated manufacturing methods. No
+special equipment is purchased to support specific
+production operations. Currently available are a
+complex set of numerically controlled machines and
+other computer enhanced production tools that improve
+production efficiency. Full complement of automated
+test tools that significantly increase efficiency of
+test operations.
+RCA Model Parameters
+Notes:
+-All changes are to PEP and production parameters only.
+-Changes made to manufactured structural items and AI&T.
+CANDIDATE VARIABLES -17
+v! xW m -' v., (

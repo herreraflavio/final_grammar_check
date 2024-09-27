@@ -1,0 +1,17 @@
+INPUT PARAMETER BASELINE OPTION 1OPTION 2 OPTION 3
+~ DEVELOPMENT
+PEP
+Integ & Assy
+PROMOS -+.1 +.25 +.50
+NEWEL -+.05 +.2 .
+DDSIGN -+.05 +.10 +.15
+DPROJ - +.02 +.05 +.08
+AI&T Boxes
+PROMOS - +.2 .4+.6
+NEWST -+.1 +.2 .
+NEWEL -+.l +.2 .
+PRO DUCT luN
+Complexity of AI&T --5% -10% -20%
+AI&T -Weights Electric --10% -20% -30%
+AI&T -Weights Structure --5% -10% -15%
+U.CANDIDATE VARIABLES -6 1

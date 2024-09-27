@@ -1,0 +1,44 @@
+2.3.2 BASELINE PEP -PRODUCEABILITY ENGINEERING PHASE
+The PEP activity is intended to follow the
+development activity. Experience in the aerospace
+industry has shown that during a development
+program (or during most limited quantity
+spacecraft programs) the first few vehicles are
+never identical. The vehicle user usually
+requires slight modifications from one unit to the
+next. In modeling the development (baseline), the
+parametric group assumed that the development
+vehicles would be similar but not identical.
+PEP also represented the level of redesign and
+documentation clean up required to make the
+manufactured items produceable and to tune the
+production process. Included in this segment
+were: reviewing and tuning the design of
+manufactured items, implementing changes between
+the development units and the production units,
+building the required MAGE and EAGE, etc.
+One of the activities of PEP was to generate a
+consolidated design. For example, suppose that
+the vehicles produced in the next phase
+(production) were identical. Drawings would need
+to be configured during PEP with production as the
+primary goal, where possible. To estimate this
+documentation effort and design review, the itemsmodeled during the development phase were
+addressed as a paper task, i.e., no new hardware
+was built. The analysis effort was increased to
+insure that any changes would not affect the end
+item performance.
+A major portion of PEP effort was directed towards
+tooling and test equipment items. This effort
+varied depending upon the production quantity
+since more time was spent on tooling as the
+required quantity increased. The tooling
+documentation was assumed to be controlled by
+using the same procedures as flight hardware.
+The specific assumptions and scope concerning PEP
+were as follows:
+1) All appropriate assumptions from development
+were applicable.
+2) All economic conditions for PEP were
+identical to development.
+METHODOLOGY -10

@@ -1,0 +1,34 @@
+INDIVIDUAL STATISTICS
+1 -SPACECRAFT TOTALS -The user receives from one to ten
+graphical displays depending on the number of Spacecraft/Payload
+summary items that have been selected by the user. Each of the
+graphs represent a specific production quantity as selected in
+teh DISPLAY QUANTITY menu below.
+DISPLAY QUANTITY
+1 -Quantity 5
+2 -Quantity 25
+3 -Quantity 50
+4 -Quantity 100
+5 -Quantity 150
+The total percent cost savings values for Development, PEP,
+Production or total of all phases (depending on the user's
+selections) for each summary item (one to ten) is graphed against
+the Primary and Secondary Cost Variables. These cost savings
+values represent the relative savings of each summary item to its
+own baseline cost value.
+The cost savings percents are the y-axis and the cost variables
+(one to 11) are the x-axis. The histograms represent the total
+cost savings percents for the Primary and Secondary Cost
+Variables. The x-axis is scaled for 11 variables. The only
+histograms that are present are those representing the cost
+variables that were selected by the user. Thus, there may be
+between one and 11 histograms. The height of the histograms
+represents the relative cost savings percents for the Primary or
+Secondary Cost Variables for the summary item when compared to
+its own baseline cost value.
+There are occasions when there are fewer histograms than the
+number of Primary or Secondary Cost Variables selected. This is
+because some variables may have no impact on a particular summary
+item.
+B-27
+I

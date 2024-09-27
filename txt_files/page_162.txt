@@ -1,0 +1,31 @@
+A) COST INFORMATION DISPLAY TABLES
+These display tables provide the cost values for the Light
+Satellite conceptual design. There are four choices for
+displaying the cost data that may be selected through the DATA
+LEVEL Menu. Each choi.e is explained below.
+DATA LEVEL
+1 -Spacecraft Totals
+2 -Subsystem Level
+3 -Component Parts
+4 -Totals Only
+1 -SPACECRAFT TOTALS allows the user to retrieve up to ten
+spacecraft/payload summary items of his/her choosing. The user
+dictates which components fall under a "summary item" by
+providing the component item identification codes. This
+operation may be performed through the Maintenance Option (see
+FILE OPERATIONS/ MAINTENANCE).
+The ten (or less) spacecraft/payload summary items appear in this
+output report. The component items that have been identified
+with a summary item, will have costs aggregated into a total that
+is then displayed for each summary item. An example of this
+output table is shown below. (Menu selections: SPACECRAFT
+TOTALS -DEVELOPMENT PHASE -TOTAL COST -TABLES.)
+DARPA -LIGHT SATELLITE -SPACE SYSTEM COST STUDY
+Development Phase TOTAL COST VALUES (DOLLARS xl000)
+SPACECRAFT
+SUMMARY ITEM Oty 5 Oty 25 Otv 50 Otv 100 Oty 150
+ITEM #1
+ITEM #2
+ITEM #10
+TOTALS
+B-4

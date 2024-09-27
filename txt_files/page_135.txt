@@ -1,0 +1,26 @@
+2.4.1 COST INFORMATION -"PATH 1"
+These menus allow the selection of: the level of cost data,
+the phase of development, the type of cost values, the type
+of displays and the mode of display (CRT screen or
+printer). The output menus for cost information are as
+follows:
+Cost Information Display Selections
+Data Level
+1 -Spacecraft Totals
+2 -Subsystem Level
+3 -Component Parts
+4 -Totals Only
+Phase of Development
+1 -Development Phase
+2 -PEP Phase
+3 -Production Phase
+4 -Totals Only
+Cost Value
+Total Cost
+Unit Cost
+Cost Savings
+Display Format
+Tables
+Line Graph
+Bar Chart
+DARPASS -Page 11

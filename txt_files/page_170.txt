@@ -1,0 +1,27 @@
+PHASE OF DEVELOPMENT
+1 -Development Phase
+2 -PEP Phase
+3 -Production Phase
+4 -Totals Only
+LEVEL OF STATISTICS
+Individual Statistics
+Composite Statistics
+Selecting INDIVIDUAL STATISTICS furnishes a table for each
+variable selected by the user during the input session.
+Selecting COMPOSITE STATISTICS generates a table containing the
+total reduction percents for the aggregate of all selected
+variables.
+The statistical information output tables appear functionally the
+same as the previous cost information tables except that the
+values within the table are different (percent versus dollars)
+and the title headings on the tables are different. The titlesare very important for distinguishing the output informationbeing displayed. Some sample title blocks for statistical
+information output tables are displayed below:
+DARPA -LIGHT SATELLITE -SPACE SYSTEM COST STUDY
+PEP Phase VARIABLE 3 -LEVEL 2 (Percent Savings)
+DARPA -LIGHT SATELLITE -SPACE SYSTEM COST STUDY
+Production Phase VARIABLE 7 -LEVEL 3 (Percent Savings)
+DARPA -LIGHT SATELLITE -SPACE SYSTEM COST STUDY
+Development Phase COMPOSITE COST EFFECT (Percent Savings)
+DARPA -LIGHT SATELLITE -SPACE SYSTEM COST STUDY
+Production Phase COMPOSITE COST EFFECT (Percent Savings)
+B-12

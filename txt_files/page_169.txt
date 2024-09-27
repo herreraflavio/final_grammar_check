@@ -1,0 +1,38 @@
+B) STATISTICAL INFORMATION DISPLAY TABLES
+S This set of output tables is very similar to the previously
+described Cost Information Display Tables. The major difference
+between the two types of reports is that the cost information
+tables contain actual dollar values while the statistical tables
+contain percent values that represent the relative savings of a
+specific variable or combination of variables (as selected by the
+user). As with the cost information, there are three choices for
+displaying the statistical information (selected from the
+following DATA LEVEL Menu):
+DATA LEVEL
+1 -Spacecraft Totals
+2 -Subsystem Level
+3 -Component Parts
+4 -Totals Only
+1 -SPACECRAFT TOTALS operates in the same manner as described
+above in COST INFORMATION DISPLAY TABLES. The ten (or less)
+spacecraft/ payload summary items provided by the user (via the
+Maintenance Option) appear in this output report. The component
+items that are identified with each summary item have costs
+aggregated and this value is divided by the sum of the baseline
+costs for these same component items. This quotient is then
+subtracted from 1, leaving a decimal value representing the
+decimal percent savings. It is these percent savings values that
+are displayed in the table.
+SAVINGS % = (1 -(ADJUSTED COST/BASELINE COST)) * 100
+The user has two other decisions to make when displaying the
+statistical information. The first is what combination of
+Design/ Development, PEP, and Production costs are to be
+displayed (there are separate tables for each activity). The
+second decision determines whether the statistics should be
+displayed individually by variable (for those variables selected
+by the user) or if all variables should be aggregated together
+resulting in a composite cost impact.
+The menus for selecting the desired combination of "phase of
+development" and "level of cost variable statistics" are provided
+below.
+B-11

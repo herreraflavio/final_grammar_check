@@ -1,0 +1,25 @@
+, 1.1 INTRODUCTION SCREEN
+Program execution is initiated by typing DARPASS at the
+system level prompt. The following introduction screen is
+then displayed.
+DDDDD A RRRRR PPPPP A
+D D AA R R P P AA
+D D A A R R P P A A
+D D A A R R P P A A
+D D AAAAAAAAA RRRRR ppppP AAAAAAAAA
+D D A A R R P A A
+D D A A R R P A A
+DDDDD A A R R P A A
+SPACE SYSTEM COST STUDY PROGRAM
+THIS PROGRAM PROVIDES THE CAPABILITY TO PRICE ALTERNATE
+APPROACHES IN THE DEVELOPMENT OF A LIGHT SATELLITE AND
+ITS PAYLOAD. THE COST EFFECT OF THE COST VARIABLES ARE
+GENERALLY APPLICABLE TO ALL SIMILAR DESIGNS.
+USER NAME: joe doe
+PASSWORD:
+The program limits access to individuals using the correct
+password. The user will have five attempts to input the correct
+password before the model returns to the DOS system leve. The
+userr may enter any name he/shw desires. The uname has a 30-
+character limit.
+DARPASS -Page 1

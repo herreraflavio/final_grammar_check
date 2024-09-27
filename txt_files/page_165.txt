@@ -1,0 +1,14 @@
+An example of an output table reflecting the selection of TOTALS
+ONLY from the PHASE OF DEVELOPMENT menu is displayed below. Note
+that unit cost values have been selected. (Menu selections:
+SPACECRAFT TOTALS -TOTALS ONLY -UNIT COST -TABLES).
+DARPA -LIGHT SATELLITE -SPACE SYSTEM COST STUDY
+Total -All Phases UNIT COST VALUES (DOLLARS xl000)
+SPACECRAFT
+SUMMARY ITEM Qty 5 Otv 25 Oty 50 Otv 100 Otv 150
+ITEM #1
+ITEM #2
+ITEM #3
+ITEM #10
+TOTALS
+B-7

@@ -1,0 +1,14 @@
+RCA Model Parameters
+Notes:
+-Only electrical/mechanical parts will be affected.
+-Make changes against component parts only; do not modify
+parameters for testing/integration activities.
+-Use of internal electronic complexity matrix that provides
+complexities for S class components through Standard 883B.
+INPUT PARAMETER BASELINE OPTION 1 OPTION 2 OPTION 3
+DEVELOPMENT
+MCPLXE -.5 -1.0 -1.5
+PEP
+PRODUCTION
+MCPLXE -.5 -1.0 -1.5
+CANDIDATE VARIABLES -8

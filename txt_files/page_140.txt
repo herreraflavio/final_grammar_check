@@ -1,0 +1,26 @@
+Data Sublevel
+1 -Analysis
+2 -Comm Payload
+3 -Electronics
+4 -Structures
+5 -Assembly/Integration
+6 -Test
+7 -Totals Only
+The user is able to select one of the options from the DATA
+SUBLEVEL menu. The combined values of all Data Sublevel
+items are represented through the selection of TOTALS ONLY.
+The user must specify the production quantity to graph
+statistical information. This "quantity" selection is made
+after the DATA SUBLEVEL menu.
+Production Quantity
+1 -Quantity 5
+2 -Quantity 25
+3 -Quantity 50
+4 -Quantity 100
+5 -Quantity 150
+After the desired output information has been displayed or
+printed, the program will pass control back to the OUTPUT
+INFORMATION menu. At this time the user may request new
+output information or return to the Program Operations menu
+by pressing the ESC key.
+DARPASS -Page 16

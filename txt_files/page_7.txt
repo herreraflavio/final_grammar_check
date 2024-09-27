@@ -1,0 +1,51 @@
+a!
+The modeling process included evaluating three distinct
+phases of hardware and software activities: the
+Development Phase, the Produceability Engineering Phase
+(PEP), and the Production Phase. These three phases
+are described below.
+The first phase was the Development, or Design and
+Demonstration Phase. The scope of this activity
+encompassed the modeling of 112 discrete items and
+tasks. Included were: software, test equipment,
+tests, analysis, structural items, electronic
+components, mechanical items, and various management
+tasks. The major end products of the Development Phase
+were two protoflight communication-radio relay
+spacecraft, MAGE (Mechanical Assembly Ground
+Equipment), and EAGE (Electronic Assembly Ground
+Equipment) required to support the flight unit's
+development and launch integration.
+The second phase was the Produceability Engineering
+Phase (PEP). PEP was intended to clean up the design
+and consolidate the changes resulting from the
+Demonstration Phase. Additional PEP activities
+accounted for production changes to the hardware,
+tooling, test requirements, and process specifications,
+enabling the communications-radio relay satellite to be
+produced in quantity. The investment in tools and test
+equipment required to meet the production rate were
+also included in the PEP activity.
+The final phase involved the actual production of the
+low cost satellite vehicles. Several production
+quantities were evaluated: 5, 25, 50, 100, and 150. A
+production rate of five vehicles per month was achieved
+for quantities of 100 and 150 with somewhat lower
+production rates for lower production quantities. The
+production effort assumed a "build to print" effort
+with moderate levels of change traffic. All build and
+test support tools/fixtures were included in the PEP
+phase, while the production phase addressed only the
+building, assembling, integrating, and testing of the
+spacecraft and spacecraft parts.
+A detailed description of the scope of effort for each
+phase is contained in section 2.3 of this report.
+The baseline program included cost values for each
+discrete item (up to 112) for the three phases of
+effort: Development, PEP, and Production. The 112
+discrete items modeled and their costs were contained
+in the automated database/model. Each item that wasaddressed during the Development Phase was carried
+through the PEP and Production Phases, if appropriate.
+I
+EXECUTIVE SUMMARY -2
+,I

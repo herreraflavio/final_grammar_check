@@ -1,0 +1,24 @@
+The LEVEL value, displayed in the previous title blocks (i.e.,
+VARIABLE 3 -LEVEL 2), is a reminder of the level selected by the
+user during the input session. An example of an output table
+reflecting a production effort for Variable 3 -Level 1 is
+provided below. (Menu selections STATISTICAL INFORMATION -
+SPACECRAFT TOTALS -PRODUCTION PHASE -INDIVIDUAL STATISTICS -
+TABLES).
+DARPA -LIGHT SATELLITE -SPACE SYSTEM COST STUDY
+Production Phase VARIABLE 3 -LEVEL 1 (Percent Savings)
+SPACECRAFT
+SUMMARY ITEM Oty 5 Oty 25 Otv 50 Otv 100 Oty 150
+ITEM #1
+ITEM #2
+ITEM #3
+ITEM #10
+TOTALS
+For the INDIVIDUAL STATISTICS selection, a table is provided for
+each variable selected during the input session. There is an
+associated level (as chosen by the user) for each variable
+selected. These tables appear functionally the same as the table
+displayed above.
+For COMPOSITE STATISTICS, there is a single table to provide the
+composite statistic for all variables combined.
+B-13

@@ -1,0 +1,46 @@
+------ ------
+2) TESTING APPROACH
+This variable addresses the cost effect of alternate testing
+approaches. It encompasses the level of testing, i.e.,
+system, subsystem, module, etc., the types of testing, and
+the frequency of testing.
+weight:
+Qualitative Scale
+B) Extensive testing: testing to the lowest functional
+level, testing of all assemblies, subsystems, and
+systems. Full battery of environmental and
+non-environmental testing and acceptance testing.
+Included would be: vibration, acoustical, thermal,
+thermal vacuum, radiation, and all other space related
+testing. Individual testing procedures required for
+each major test. High frequency of testing; testing of
+essentially every production unit. High number of
+system/subsystem test articles. Each production unit
+receives extensive qualification testing.
+1) Testing to the first assembly level, subsystems, and
+systems. Full battery of environmental and
+non-environmental testing and acceptance testing. Due
+to the nature of the vehicle and test facilities, some
+tests can be performed using the same facilities or
+done in parallel. Frequent testing; testing every
+other production unit. Many system/subsystem testC' articles. Qualification test on every other productionunit. Some testing shortcuts established as testing
+progresses.
+2) Testing at the subsystem and system levels. Reduced
+space vehicle testing; some environnmental/non-
+environmental tests are not required. Thermal testing
+not required due to known environment and component
+capabilities; reduced transponder EM testing.
+Extensive testing only occurs when changes are made to
+design baseline. Infrequent use of test articles.
+Qualification test about every third production unit.
+3) Testing is mostly performed at the system level. Forproduction, test every fifth unit depending on lot
+material buys, i.e., test first spacecraft unit for
+each new lot of material. Very limited testing and
+acceptance testing only. Non-destructive testing ordynamic testing against mass simulator; refurbishing
+not required. Reduced space vehicle testing; some
+environmental/non-environmental tests are not
+required. Thermal testing not required due to known
+environment and component capabilities; reduced
+transponder EM testing because of previously certified
+unit.
+CANDIDATE VARIABLES -3

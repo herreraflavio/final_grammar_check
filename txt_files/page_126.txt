@@ -1,0 +1,32 @@
+2.0 DARPASS PROGRAM OPERATIONS MENU
+Following the introductory screen, the model displays the
+DARPASS Program Operations menu that allows access to all
+operations of the DARPASS program. It also enables
+highlighted selection of options with cursor control, or by
+typing the first letter of each option where the selections
+begin with a different letter. Where more than one
+selection begins with the same letter, they are numbered.
+Nevertheless, moving the cursor vertically between options
+will highlight a selection. Then, pressing RETURN will
+implement the selection.
+DARPA SPACE SYSTEM COST STUDY PROGRAM
+DARPASS Program Operations
+Designate Mission Baseline
+Input New Configuration
+Modify Existing Configuration
+Retrieve Configuration
+Save Configuration
+Execute
+File Operations/Maintenance
+Terminate & Return to DOS
+Please observe that line 25 of every display screen will
+give an "operating menu." This operating menu indicates any
+special keys that may be used for moving around a menu,
+making a selection, advancing to proceeding menus, returning
+to a previous menu, or other functions. The user should
+notice the functions available with these special keys for
+each new display screen.
+The operations provided by each option of the DARPASS
+Program Operations menu will be discussed in the sections
+that follow.
+DARPASS -Page 2

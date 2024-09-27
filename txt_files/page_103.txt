@@ -1,0 +1,42 @@
+7) LEVEL OF DELIVERABLE DOCUMENTATION REOUIRED
+This variable addresses the cost of various levels of
+required documentation. It also reveals the associated
+costs of management and customer reviews.Weicrht:
+Oualitative Scale
+B) Very large amount of documentation required; many
+reviews with top management approval required. No
+tailoring of documentation content permitted. Customer
+review and update to documentation part of review
+process. Contractor required to follow extensive
+compliance documents. All change traffic requires
+formal procedure for approval and update.
+1) Large amount of documentation required; frequent
+reviews with high management approval required. Little
+tailoring of documentation content permitted. Customer
+review and comments part of review process. Contractor
+required to follow set of compliance documents. Some
+change traffic for significant changes requires formal
+procedures for approval and update.
+2) Less extensive documentation required; less detailed
+review process. Tailoring is permitted to most
+documents; some in-house type documentation permitted.
+Customer reviews less formal. Most change traffic
+requires changes to current baseline.
+3) Little documentation required, few formal reviews,
+heavy tailoring permitted. Most specifications are
+in-house provisions or equivalent. Few documents
+required for formal submission. Customer review
+generally informal. Change traffic generally requires
+alterations to current baseline. Minimization of paper
+traffic applied to "as built" documentation to provide
+traceability.
+RCA Model Parameters
+Notes:
+-Change values for both prime and teammates as indicated
+below.
+-All items will be affected by this variable except
+off-the-shelf elements from the changes.
+-Changes to software and database are discrete to these
+mode 3 items (individual boxes).
+CANDIDATE VARIABLES -13
+.. ..... ..

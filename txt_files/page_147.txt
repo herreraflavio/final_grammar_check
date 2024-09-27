@@ -1,0 +1,25 @@
+UPDATE BASELINE COST VALUES allows a user to replace
+existing baseline cost files with new baseline cost files.
+The user is prompted for the post processed filename that
+contains the cost values for development, PEP, and
+production. This function will not destroy already existing
+Primary and Secondary Cost Variable cost reduction records.
+UPDATE COST VARIABLES permits updating of the Primary and
+Secondary Cost Variable reduction percentages. The DARPASS
+prompts the user for the following information:
+Phase (I-DEV, 2-PEP, 3-PROD):
+Quantity (5, 25, 50, 100, 150):
+Variable (0-11) (0 -BASELINE):
+Option (1 -3):
+The user needs to specify the summary codes of the items
+that are to be changed and their new reduction percentages:
+PROVIDE COMPONENT SUMMARY CODES AND THEIR CORRESPONDING
+REDUCTION PERCENTS:
+FORMAT: RANGE X.X.X.X.X. <CR> X.X.X.X.X. ###.##
+DISCRETE X.X.X.X.X. <CR> <CR> ###.##
+WHERE X.X.X.X.X. -- SUMMARY CODES
+###.##-- PERCENT CHANGE
+1.2.2.3.1, 1.2.2.3.11 *
+I
+DARPASS -Page 23
+Lwmmmmalim -m z

@@ -1,0 +1,20 @@
+Space System Cost Study Program
+DARPASS Program Operations
+1 -Designate Mission Baseline
+2 -Input New Configuration
+3 -Modify Existing Configuration
+4 -Retrieve Configuration
+5 -Save Configuration
+6 -Execute
+7 -File Operations/Maintenance
+8 -Terminate & Return to DOS
+The DARPASS program is described in detail in the User's
+Manual that follows. The reader should consult this guide
+before running the DARPASS. The reader should pay
+particular attention to the information regarding output
+reports contained in Appendix B of the manual. Without this
+background, the user may misinterpret some of the output
+information.
+Questions about this document may be directed to either
+Craig Mogensen (303-971-5107) or Doug Dilts (303-971-5104).
+~iii

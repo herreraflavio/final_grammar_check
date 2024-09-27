@@ -1,0 +1,26 @@
+2.4 EXECUTE
+DARPA SPACE SYSTEM COST STUDY PROGRAM
+DARPASS Program Operations
+Designate Mission Baseline
+Input New Configuration
+Modify Existing Configuration
+Retrieve Configuration
+Save Configuration
+Execute
+File Operations/Maintenance
+Terminate & Return to DOS
+This option runs the DARPASS program. It uses the current
+configuration of variables provided by the user. The model
+applies the appropriate algorithms to the baseline
+spacecraft internal cost values to produce a new set of
+"configuration unique" cost values. These cost values are
+calculated at the spacecraft component part level.
+When the user selects EXECUTE, the model processes the data
+and then displays menus that permit selection of the desired
+output information. There are two discrete evaluation path
+choices when obtaining output information.
+"Path 1" allows the user to obtain a full set of cost data
+for the conceptual light satellite design, with the
+configuration of cost variables input by the user.
+DARPASS -Page 9
+9.a

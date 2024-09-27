@@ -1,0 +1,34 @@
+C) COST INFORMATION GRAPHICAL DISPLAYS
+This section describes how the cost values for the Light
+Satellite conceptual design are provided in graphical format.
+This capability gives all combinations of cost data except for
+COMPONENT PARTS. The discrete selections provided by the output
+menus are as follows:
+DATA LEVEL
+1 -Spacecraft Totals
+2 -Subsystem Level
+3 -Component Parts (not provided)
+4 -Totals Only
+PHASE OF DEVELOPMENT
+1 -Development Phase
+2 -PEP Phase
+3 -Production Phase
+4 -All Phases
+TYPE OF COST VALUES
+Total Cost
+Unit Cost
+Cost Savings
+DISPLAY FORMAT
+Line Graph
+Bar Chart
+f the user selects either SPACECRAFT TOTALS or SUBSYSTEM LEVEL
+from the DATA LEVEL menu, he/she receives one of two additional
+menus. These menus allow the user to narrow the scope of output
+information to specific spacecraft items or subsystems. The
+menus contain a list of summary items and the user can choose the
+specific items he/she wishes to view. The summary items are
+configured in the MAINTENANCE function (see FILE OPERATIONS/
+MAINTENANCE). The user specifies which component part costs
+should be contained in each summary item. A sample DATA SUBLEVEL
+menu follows.
+B-17

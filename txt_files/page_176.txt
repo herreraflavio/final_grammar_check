@@ -1,0 +1,24 @@
+DATA SUBLEVEL
+1 -Comm Payload
+2 -Electronics
+3 -Structures
+4 -Assembly/Integration
+5 -Test
+6 -Totals Only
+The user has the additional option of specifying the format for
+the graph. He/she can choose a line graph or a bar graph for
+viewing cost information. Specifying the format of the graph is
+possible in the menu called DISPLAY FORMAT. Sample graphical
+displays are provided on the following pages. The format of the
+graphical displays is representative of how all similar cost data
+are displayed.
+The cost information graphical displays use almost the same
+headings as the table displays, space permitting. Two sample
+graphical display title blocks are:
+Production Phase
+Comm Payload
+Total Cost Values (Dollars xl000)
+Development Phase
+All Subsystems
+Unit Cost Values (Dollars xl000)
+B1

@@ -1,0 +1,23 @@
+4 -TOTALS ONLY provides a table of summary statistical values
+only. The user can select a single phase of development or may
+choose to receive summary totals for all phases. (Menu
+selections: STATISTICAL INFORMATION -TOTALS ONLY -PRODUCTION
+PHASE -COMPOSITE STATISTICS -TABLE).
+DARPA -LIGHT SATELLITE -SPACE SYSTEM COST STUDY
+Production Phase COMPOSITE COST EFFECT (Percent Savings)
+SPACECRAFT
+SUMMARY ITEM Otv 5 Otv 25 Otv 50 Otv 100 Oty 150
+TOTALS
+A sample table displaying the totals for all phases is shown
+below. Note the difference between the menu selections. (Menu
+selections: STATISTICAL INFORMATION -TOTALS ONLY -TOTALS ONLY
+-COMPOSITE STATISTICS -TABLES).
+DARPA -LIGHT SATELLITE -SPACE SYSTEM COST STUDY
+Total -All Phases COMPOSITE COST EFFECT (Percent Savings)
+SPACECRAFT
+SUMMARY ITEM Otv 5 Otv 25 Otv 50 Otv 100 Oty 150DEVELOPMENT
+PEPPRODUCTION
+TOTALS
+b,
+I
+B-16

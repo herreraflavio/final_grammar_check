@@ -1,0 +1,32 @@
+2.2 INPUT/MODIFY CONFIGURATION
+DARPA SPACE SYSTEM COST STUDY PROGRAM
+DARPASS Program Operations
+Designate Mission Baseline
+Input New Configuration
+Modify Existing Configuration
+Retrieve Configuration
+Save Configuration
+Execute
+File Operations/Maintenance
+Terminate & Return to DOS
+These options are discussed together because they operate
+identically. The only difference between the two options is
+that INPUT NEW CONFIGURATION begins with all cost variables
+set to the baseline values, while MODIFY EXISTING
+CONFIGURATION displays the cost variables as they have been
+input by the user.
+This portion of the DARPASS session is for entry of the
+spacecraft/payload "approach" that the user wishes to
+price. The user's "approach" represents the conditions that
+the user feels he/she can control or affect and are
+simulated by selection of the appropriate cost variables.
+The cost variables to be addressed by the user are divided
+into two logical groupings, Primary Cost Variables and
+Secondary Cost Variables with one CRT display screen for
+each grouping. The user must first specify which group of
+variables he/she would like to address using a menu like the
+one following:
+INPUT VARIABLES
+Primary Cost
+Secondary Cost
+DARPASS -Page 4

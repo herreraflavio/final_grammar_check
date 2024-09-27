@@ -1,0 +1,36 @@
+DARPASS INSTALLATION/EXECUTION
+GETTING STARTED -OPERATING DARPASS a
+This page contains important inFormation and directions that
+must be Followed beFore using the DARPAS5 program.
+ONE- OR TWO-DISKETTE SYSTEM
+I. Turn on computer and allow it to "boot" with standard DOS
+3.0 or equivalent System disk.
+2. Assign diskette Drive A as the deFault drive by entering
+the Following DOS command:
+A: +J
+3. Insert the DARPASS Program disk into Drive A and close the
+drive door.
+L4. To begin program execution, type
+DARPASS
+5. Enter a usernome and password at the appropriate
+prompts.
+6. Replace the Program disk with the Database disk when
+prompted by the program.
+HARD-DISK OR CARTRIDGE SYSTEM
+I. Turn on computer and allow computer to "boot."
+2. Make the hard disk or cartridge wher2 the DARPASS program
+is to be stored the deFault drive. For instance, iF the hard
+disk is Drive C, enter the Following DOS command:
+C: _1
+3. Create a subdirectory on the hard disk DARPASS using the
+Following DOS command:
+MD DARPASS 4_,
+H. Make the DARPASS subdirectory the deFault directory.
+S. Insert the DARPASS Program disk into Drive A and close the
+door.
+6. Issue the Following DOS command:
+COPY A:.* 4-J
+7. Repeat steps 5 and B For the Database disk.
+B. To begin program execution, type
+DARPASS 4-I 0
+NOTE: Steps S through 7 need to be done only once.

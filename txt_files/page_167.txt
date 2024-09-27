@@ -1,0 +1,22 @@
+3 -COMPONENT PARTS operates in the same manner as the previous
+two. However, it is not a summary of the component cost
+information, but provides cost data for each component part.
+Essentially, the table that displays this information will be
+functionally the same as the other two summary tables, SPACECRAFT
+TOTALS and SUBSYSTEM LEVEL. The only difference is that the
+column heading over the component parts will read "COMPONENT
+SUMMARY ITEMS."
+Following is an example of this type of table. Note the increase
+in the number of items in the table and that these items
+represent the spacecraft component parts. (Menu selections:
+COMPONENT PARTS -TOTALS ONLY -COST SAVINGS VALUES -TABLE).
+DARPA -LIGHT SATELLITE -SPACE SYSTEM COST STUDY
+Total -All Phases COST SAVING VALUES (DOLLARS xl000)
+COMPONENT
+SUMMARY ITEM Qt 5. Otv 25 Otv 50 Otv 100 Otv 150
+ITEM #2
+ITEM #2ITEM #3
+ITEM #99 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+TOTALS
+BI
+B-9j

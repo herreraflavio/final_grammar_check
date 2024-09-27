@@ -1,0 +1,29 @@
+once a group of input variables has been selected, the user
+receives the appropriate input prompts. The display screens
+for the two (Primary and Secondary) groupings are reproduced
+below.
+Note that there is a "function menu" on line 25 of the
+Primary and Secondary Cost Variable display screens
+indicating keys that have special editing or selecting
+capabilities. This menu is not shown in the user's guide,
+but it is displayed on the CRT screen.
+DARPA SPACE SYSTEM COST STUDY PROGRAM
+Primary Cost Variables Baseline OPT 1 OPT 2 OPT 3
+1. Use of Existing Equipment
+2. Testing Approach
+3. System/Design Modularity
+4. Mission Life -Reliability
+5. Structural Materials/Tolerances
+41 The Cost Variable function menus also permit highlighted
+selection of options with cursor control by using the arrow
+keys. The user can move down the list of Primary CostVariables, position the cursor horizontally below the
+selections and then choose from among B-Baseline, 1-First
+Cost Reduction Option, 2-Second Cost Reduction Option, and
+3-Low Cost Option.
+Moving the cursor vertically among variables will highlight
+a variable. Positioning the cursor under the desired
+selection and pressing RETURN will implement the selected
+variable (i.e., baseline, option 1, option 2, or option 3).The user may change his/her selection by repositioning the
+cursor with the arrow keys and pressing RETURN when the
+cursor is in the correct location.
+DARPASS -Page 5

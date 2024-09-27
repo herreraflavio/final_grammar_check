@@ -1,0 +1,42 @@
+3) A flight equivalent unit was not built during
+PEP. Breadboard items or production
+pathfinder hardware were built to verify
+tooling, process plans, and test procedures.
+4) Varying levels of design activity were
+accomplished depending upon production
+quantities; the greater the production
+quantity, the more intense the design
+activity.
+5) Production lots were 5, 25, 50, 100, and 150.
+6) The level of PEP did increase proportionally
+with the production quantity; it increased at
+a decreasing rate.
+7) The appropriate build tools, test fixtures,
+and test sets were included in the estimate
+for PEP (see list of build tools and test
+fixtures for the Development Phase).
+8) Prime contractor and vendor items were
+included in the PEP estimate.
+9) Testing activities associated with design
+modifications and changes/upgrades to test
+equipment were included in PEP.
+10) Design changes entertained in PEP were
+defined as non-block in nature. This does
+not imply that block changes cannot be
+accommodated with this methodology. Rather,it demonstrates that the current estimate and
+candidate variables do not include such
+activities.
+11) PEP was intended to be a stand alone activity
+that ran parallel to the production effort.
+The intent of modeling the effort this way
+was to isolate the nonrecurring segment of
+the production effort. An added feature of
+this approach was that changes could be
+evaluated prior to their incorporation during
+an actual program. Thus, the user could test
+the affordability of any modification.
+12) There were no testing activities associated
+with the PEP segment, with the exception of
+test procedure tuning activities.
+METHODOLOGY -11
+I.II A.u I I n , , -- = Z

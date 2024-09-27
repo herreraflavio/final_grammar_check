@@ -1,0 +1,31 @@
+2 -SUBSYSTEM LEVEL operates in the same manner as described in
+the previous option, SPACECRAFT TOTALS. It allows the user to
+retrieve up to 25 subsystem summary items of his/her choice. The
+user dictates which components fall under the summary item by
+providing the component item identification codes. This
+operation may be performed via the Maintenance function (see FILE
+OPERATIONS/ MAINTENANCE).
+The 25 (or less) subsystem summary items provided by the user
+appear in this output report. The format for this statistical
+information is similar to that of the cost report. The component
+items that have been identified under each summary item will have
+costs aggregated and a percent savings value (as compared to the
+baseline) is provided for each summary item.
+SAVINGS % = (1 -(ADJUSTED COST/BASELINE COST)) * 100
+An example of this type of output table is provided below. The
+example (as indicated by the title) is PEP, Composite Cost Effect
+values. Thus, the table contains values representing the total
+cost savings of all variables combined (as selected by the user)
+for the PEP Phase. (Menu selections: STATISTICAL INFORMATION -
+SUBSYSTEM LEVEL -PEP PHASE -COMPOSITE STATISTICS -TABLE).
+DARPA -LIGHT SATELLITE -SPACE SYSTEM COST STUDY
+PEP Phase COMPOSITE COST EFFECT (Percent Savings)
+SPACE DIV.
+SUMMARY ITEM Oty 5 Otv 25 Otv 50 Qty 100 Otv 150
+ITEM #1
+ITEM #2ITEM #3
+ITEM if2 3
+ITEM #24
+ITEM #25
+TOTALS
+B-14

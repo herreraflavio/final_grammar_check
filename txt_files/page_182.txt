@@ -1,0 +1,34 @@
+D) STATISTICAL INFORMATION GRAPHICAL DISPLAYS
+S This section describes how statistical information on the Light
+Satellite conceptual design is provided in graphical form. This
+option offers all combinations of statistical information except
+for COMPONENT PARTS. The discrete selections provided by the
+output menus are displayed below.
+The reader should observe that the major difference between the
+graphical display of cost information compared to statistical
+information is that all statistical information is displayed in
+the form of bar charts. The statistical information is more
+appropriately displayed using bar charts rather than line graphs.
+DATA LEVEL
+1 -Spacecraft Totals
+2 -Subsystem Level
+3 -Component Parts (not provided)
+4 -Totals Only
+PHASE OF DEVELOPMENT
+1 -Development Phase
+2 -PEP Phase
+3-Production Phase
+4 -All Phases
+LEVEL OF STATISTICS
+Individual Statistics
+Composite Statistics
+If the user selects either SPACECRAFT TOTALS or SUBSYSTEM LEVEL
+from the Data Level menu, he/she receives one of two additional
+menus. These menus allow the user to narrow the scope of output
+information to specific spacecraft items or subsystems. These
+menus contain a list of summary items and the user can choose the
+specific items he/she wishes to view. The summary items are
+configured using the Maintenance function (see FILE OPERATIONS/
+MAINTENANCE). A sample Data Sublevel menu is provided on the
+following page.
+B-25

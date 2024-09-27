@@ -1,0 +1,17 @@
+"K .-,J
+3 -COMPONENT PARTS operates in the same manner as the previous
+two options, SPACECRAFT TOTALS and SUBSYSTEM LEVEL. It provides
+the statistical data for each component part, rather than a
+summary of component parts as the previous two options did.
+(Menu selections: STATISTICAL INFORMATION -COMPONENT PARTS -
+TOTALS ONLY -INDIVIDUAL STATISTICS -TABLE).
+DARPA -LIGHT SATELLITE -SPACE SYSTEM COST STUDY
+Total -All Phases VARIABLE 10 -LEVEL 3 (Percent Savings)
+COMPONENT
+SUMMARY ITEM Ot 5. Otv 25 Otv 50 Oty 100 Oty 150
+ITEM #1
+ITEM #2
+ITEM #3
+ITEM #99
+TOTALS
+B-15

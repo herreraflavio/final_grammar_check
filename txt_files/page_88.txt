@@ -1,0 +1,35 @@
+2.3.3 BASELINE PRODUCTION
+Production represented "building to print" the
+spacecraft baseline designed in the Development
+Phase using the techniques and equipment
+established/built in the PEP segment. The
+Production Phase included most of the recurring
+costs associated with building a spacecraft.
+Production Phase assumptions were as follows:
+1) All economic conditions associated with
+production were identical to that of PEP.
+2) All appropriate assumptions from Development
+and PEP still applied.
+3) Production included lots of 5, 25, 50, 100,
+and 150.
+4) Under "business as usual" conditions, it was
+assumed that there was a certain amount of
+change traffic during the production process
+that increased somewhat proportionately with
+each production quantity.
+5) The quantities did not reflect en masse
+production, rather a product that was
+Uevolving as user demands were accommodated.
+User demands did not include block changes.
+6) Appropriate learning curves or prnduct
+improvement factors were applied dependiag on
+quantity, item, and process.
+7) The production effort did not include
+nonrecurring costs.
+8) The baseline included a rigorous test
+program.
+9) The production run was assumed to be a
+continuous build activity peaking at five
+spacecraft per month.
+10) Funding was not a production consideration.
+METHODOLOGY -12

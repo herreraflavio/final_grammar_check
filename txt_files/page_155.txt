@@ -1,0 +1,50 @@
+3) SYSTEM MODULARITY/DESIGN MODULARITY addresses the cost
+impact of modular versus non-modular design.
+B) Satellite and payload are essentially non-modular in
+nature. Swapping of components/assemblies achieved only
+with a great degree of difficulty.
+1) Some of the more critical assemblies are modular in nature;
+overall vehicle and subsystems require more traditional
+satellite production methods.
+2) Component parts are modular, subsystems are not. Assembly
+of individual subsystems occurs in assembly line fashion;
+system assembly requires more traditional methods.
+3) High use of modular components and subsystems. Production
+operations simulate an assembly line.
+4) MISSION LIFE -LEVEL OF PERFORMANCE/RELIABILITY REQUIRED
+addresses the cost impact related to length of mission life
+and indicates the effect of more reliable parts on
+component/assembly costs.
+B) Mission requirements are for an extended mission life.
+S class components -highest possible performance/
+reliability required.
+1) B Class components -very stringent design requirements.
+Mission requirements are for a minimum of a two or three
+year mission life. Satellite must operate effectively over
+this period.
+2) Mil standard components or less stringent design
+requirements. Mission requirements are for a reduced
+mission life of two to three years. Less stringent
+component and assembly MTBFs. Less testing involved to
+insure longevity of mission.
+3) Commercial parts are available that meet performance/
+reliability requirements. Mission requirements are for a
+short mission life of less than two years.
+5) MECHANICAL/STRUCTURAL MATERIALS AND TOLERANCES relates cost
+to the types of materials used to produce the
+spacecraft/payload and the exactness to which these parts
+must be produced.
+B) New materials, composites, or difficult alloys. Parts and
+assemblies have very narrow tolerances. Some parts require
+special manufacturing/assembly knowledge.
+1) Relatively new material/composites requiring special
+manufacturing/assembly expertise. Tolerances are difficult
+on many parts and assemblies.
+2) Typical material/composites with close but comfortable
+tolerances. Some attributes of the manufacturing/assembly
+process require special considerations.
+3) Simple aluminum composites or equivalent. No special
+tooling required for machining operations. Tolerances are
+fairly easy to maintain on standard machine tools. Weight
+savings are not a factor.
+A-2

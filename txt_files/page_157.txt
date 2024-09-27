@@ -1,0 +1,48 @@
+8) SIZE/EFFICIENCY OF PRODUCTION FACILITY addresses the cost
+impact of using a large facility involved in many contractsSversus using a smaller, more streamlined operation with more
+flexible operating procedures.
+B) Production facility is a large diversified operation with
+many manufacturing efforts occurring concurrently. Shared
+facility and shared equipment. Very high manufacturing
+overhead (150+%) with large engineering groups charging
+indirect.
+1) Production facility is a large, diversified operation with
+only a few large efforts occurring concurrently. Shared
+facility, but equipment is often setup and dedicated to
+specific jobs. High manufacturing overhead (110+%) few
+groups charging indirect.
+2) Production facility is a medium-sized operation with special
+manufacturing/assembling expertise involved with a few
+contracts. Equipment and even sections of the operation may
+be set up and dedicated to specific jobs. Medium
+manufacturing overhead (80+%). Streamlined operational
+procedures.
+3) Production facility is a medium to small operation with
+special manufacturing/assembling expertise dedicated to one
+specific contract or oriented towards producing a generic
+family of products. Much of the equipment and facility is
+dedicated to a specific contract. Low manufacturing
+overhead (50+%).
+9) MANUAL VERSUS AUTOMATED MANUFACTURING & TEST METHODS
+addresses the cost savings/added costs of using automated
+autonomous type manufacturing machine tools and test methods
+versus traditional labor intensive machine tools.
+B) Many manufacturing operations use labor intensive, manually
+operated machine tools. Continuous equipment monitoring
+required. Essentially all manual testing.
+1) Most production operations are performed on older more
+traditional machine tool equipment. Some critical
+operations are performed on newer machine tools providing
+some improvement in manufacturing efficiency. Some test
+tools are available.
+2) Automated/computer enhanced manufacturing methods are used
+in most complex operations. These tools reduce production
+costs. Tools are available on the factory floor. Test
+tools are available in most critical aspects of testing
+activities.
+3) Extensive use of automated manufacturing methods. There is
+a set of numerical controlled machinery and other computer
+enhanced production tools that improve available production
+efficiency. Full complement of automated test tools. Test
+tools significantly increase efficiency of test operations.
+A-4

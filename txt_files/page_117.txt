@@ -1,0 +1,34 @@
+3) ENHANCING PRODUCTION TECHNIQUES DURING PRODUCTION
+This cost variable addresses the cost impacts and associated
+cost savings when incorporating production efficient
+technology improvements during the production segment of the
+contract. It is generally expensive to incorporate changes
+during the production cycle because of retooling, drawing
+modifications, and other issues. However, there are
+instances where the cost savings of certain activities
+outweigh the cost of implementing them. Weight:
+Oualitative Scale
+B) No impact to production activities due to technology
+improvements. Technclogy improvements are not
+incorporated during the production segment.
+1) Very few production technology improvements
+incorporated during the production process. Most of
+these improvements are of limited economic
+consequences; incorporating them is fairly inexpensive.
+2) There are some significant technology upgrades to the
+production process integrated during the production
+effort. These upgrades provide some cost reduction
+improvement in the production activities. Cost of
+incorporating these changes versus the cost savings
+realized makes the upgrades attractive.3) Incorporation of advanced technology into the
+production process. Use of highly specialized
+robotics. Significant cost efficiencies are achieved
+from the introduction of this new technology. Cost of
+implementing the production system enhancements is
+significantly outweighed by the savings.
+RCA Model Parameters
+Notes:
+-Some effects of this variable cause increase in cost while
+others decrease cost.
+-Only Production parameters inputs are affected.
+CANDIDATE VARIABLES -27

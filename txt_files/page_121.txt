@@ -1,0 +1,27 @@
+DARPASS -TABLE OF CONTENTS
+SECTION DESCRIPTION PAGE
+1.0 Introduction ii
+DARPASS Flow Diagram iv
+1.1 Introduction Screen 1
+2.0 DARPASS Program Operations Menu 2
+2.1 Designate Mission Baseline 3
+2.2 Input/Modify Configuration 4
+2.3 Retrieve/Save Configuration 7
+2.4 Execute 9
+2.4.1 Cost Information -"Path 1" 11
+2.4.2 Statistical Information -"Path 2" 14
+2.5 File Operations/Maintenance 17
+2.5.1 File Maintenance 18
+2.5.2 Program Configuration 19
+2.5.2.1 Add/Modify Mission Selections 20
+2.5.2.2 Add/Modify Mission Databases 21
+. 2.5.3 Configure Output Reports 26
+2.6 Terminate and Return to Dos 29
+Appendix A Help Text A- 1
+Appendix B Output Reports B- 1
+Cost Information Display Tables B- 4
+Statistical Information Display Tables B-10
+Cost Information Graphical Displays B-15
+Statistical Information Graphical Displays B-23
+Appendix C Summary Codes for Light Sat C- 1
+i

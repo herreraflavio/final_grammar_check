@@ -1,0 +1,42 @@
+3.2 SECONDARY VARIABLE DESCRIPTIONS & MECHANICS
+6) STREAMLINING MANAGEMENT OPERATIONS
+This variable accounts for changes in the management
+philosophy. There are controllable programmatic factors
+that can reduce the level of management and streamline the
+management process.Weicrht:
+Oualitative Scale
+B) Formal and structured interface required with
+customer. C-Spec financial accounting required and
+many other compliance documents. Much interfacing will
+be required to derive necessary requirements. Little
+or no collocation of prime contractor, teammates, and
+customer. Streamlining of project management task not
+possible.
+1) Management appears to have the capability to develop
+the required products. Due to product familiarity,
+some project management tasks not required. Formal
+interface required with customer. Little collocation
+of prime contractor, teammates, and customer. C-Spec
+financial accounting required and many other compliance
+documents.
+2) Good program management team. Much collocation of
+prime contractor and teammates. Less formal customer
+interface required; minimal compliance specifications.
+Much streamlining of management functions possible.
+There will be a flow down of new management methods
+that includes discrete work package level management.
+3) Management has extensive experience in product area.
+Prime and teammates are industry leaders in their
+respective product lines. Extensive collocation of
+prime contractor and teammates. Informal customer
+interface required; minimal compliance specifications.
+Extensive streamlining of management functions
+possible. There will be a flow down of new management
+methods that includes discrete work package level
+management.
+RCA Model Parameters
+Notes:
+-Change prime and teammate globals where indicated.
+-Changes to Program Management are to the discrete dollar
+values for these mode 3 items.
+CANDIDATE VARIABLES -11

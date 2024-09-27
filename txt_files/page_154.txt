@@ -1,0 +1,44 @@
+APPENDIX A
+@INTRODUCTION
+This appendix contains the text for the Help screen provided
+by the DARPASS for the Primary and Secondary cost
+variables. In some cases, the text displayed on the CRT
+screen has been tailored so that it fits on the screen.
+1) USE OF EXISTING EQUIPMENT addresses the cost effect of using
+equipment that exists or needs slight modification versus
+equipment that must be developed from scratch or needs
+extensive modification.
+B) Essentially all equipment developed for the spacecraft/
+payload is developed from scratch. No equipment currently
+exists that supports the requirements.
+1) Much of the required spacecraft/payload equipment has to be
+developed from scratch. In some instances, existing design
+can be used but requires major repackaging or similar design
+modification.
+2) Much of the equipment needed for the spacecraft/payload
+exists in some form. Some items require repackaging but are
+functionally similar to existing requirements.
+3) Extensive use of existing equipment. Use of equipment
+previously flight certified and flown on previous spacecraft
+missions.
+2) TESTING APPROACH addresses the cost effect of alternate
+testing approaches and encompasses the level of testing, the
+types of testing, and the frequency of testing.
+B) Extensive testing; testing to the lowest functional level,
+testing of all assemblies, subsystems, and systems. Full
+battery of environmental and non-environmental testing and
+acceptance testing.
+1) Testing to the first assembly level, subsystems, and
+systems. Full battery of environmental and non-
+environmental testing and acceptance testing. Some tests
+can be performed using the same facilities or done in
+parallel.
+2) Testing at the subsystem and system levels. Reduced space
+vehicle testing; some environmental/non-environmental tests
+are not required. Thermal testing not required due to known
+environment and component capabilities; reduced transponder
+EM testing.
+3) Testing is performed essentially at just the system level.
+For production, test every fifth unit depending on lot
+material buys. Very limited and only acceptance testing.
+A-1

@@ -1,0 +1,25 @@
+IL MAJV ILA WI2 -1-,1 LM A
+4 -TOTALS ONLY provides a table of only the total cost values.
+The user may select a single phase of development or may choose
+to receive summary totals for all phases. A sample table is
+provided below for the production phase. (Menu selections:
+TOTALS ONLY -PRODUCTION PHASE -TOTAL COST -TABLE).
+DARPA -LIGHT SATELLITE -SPACE SYSTEM COST STUDY
+Production Phase TOTAL COST VALUES (DOLLARS xl000)
+SPACECRAFT
+SUMMARY ITEM Otv 5 Otv 25 Otv 50 Otv 100 Otv 150
+TOTALS
+A sample table containing totals for all phases is displayed
+below. Note the difference between the user's menu selections.
+(Menu selections: TOTALS ONLY -TOTALS ONLY -UNIT COST -
+TABLE).
+DARPA -LIGHT SATELLITE -SPACE SYSTEM COST STUDY
+Total -All Phases UNIT COST VALUES (DOLLARS xl000)
+SPACECRAFT
+SUMMARY ITEM Oty 5 Ot 25 Otv 50 Otv 100 Otv 150
+EPDEVELOPMENT
+PEP
+PRODUCTION
+TOTALS
+B1I
+B-I 10

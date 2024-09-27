@@ -1,0 +1,35 @@
+2.0 METHODOLOGY
+2.1 RCA PRICE MODEL DESCRIPTION
+The RCA PRICE H hardware model was selected as the cost
+estimating tool for all items except software, which
+was estimated using Martin Marietta's in-house model,
+PCEM (software Parametric Cost Estimating Model).
+PRICE H was used because:
+1) The parametric estimating group has over 20 years
+of modeling experience on all types of hardware
+programs.
+2) DARPA has access to the same model.
+3) The PRICE model is the vehicle used to provide
+daily program estimates.
+4) The PRICE model methodology applies as an industry
+standard and the results and complexity values are
+representative of most aerospace companies.
+5) The model is extremely flexible.
+The PRICE model input parameters are designed for
+running sensitivities. The parameters that are
+available for change and that cause the greatest
+variation in program costs are:
+Quantity -number of items (development, PEP, and
+production),
+Weight -total weight (structural and electronic),
+Engineering Complexity -"how difficult" is the
+engineering effort,
+Percent New Design -what percent of design is
+required,
+Manufacturing Complexity Values -electrical and
+mechanical,
+Schedule -time duration of task, and
+Global Values -Management, Data, and Systems, etc.
+Section 3.2 explains the "switches" (input values) that
+were changed for each candidate variable and option.
+METHODOLOGY -1

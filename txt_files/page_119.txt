@@ -1,0 +1,35 @@
+4) CONFIGURATION OF ELECTRONIC COMPONENTS
+This variable addresses the effect on cost of electronic
+components due to repackaging requirements and associated
+modifications.~Weight:
+Oualitative Scale
+B) Size and weight are major considerations in electronic
+components design and production. Many circuit layouts
+must be rearranged. Individual electronic discretes
+are considered for replacerent.
+1) Size and weight affects the packaging and circuit
+density of many of the electronic components. Many
+boards require rearrangement/ packaging.
+2) Size and weight constraints have a lesser impact on
+circuit density and packaging requirements. Some
+repackaging must be considered.
+3) Size and weight factors not an issue in packaging the
+electronic components. Boards can be used "as is" with
+little modification to basic circuit layout.
+RCA Model Parameters
+Notes:
+-Change parameters for electronic/mechanical items.
+INPUT PARAMETER BASELINE OPTION 1 OPTION 2 OPTION 3
+DEVELOPMENT
+MCPLXE - -.1 -.3 -.5
+NEWEL - -.2 -.4 -.6
+Weight
+PEP
+MCPLXE - -.1 -.3 -.5
+NEWEL - -.2 -.4 -.6
+Weight
+PRODUCTION
+MCPLXE - -.1 -.3 -.5
+NEWEL - -.2 -.4 -.6
+Weight
+CANDIDATE VARIABLES -29

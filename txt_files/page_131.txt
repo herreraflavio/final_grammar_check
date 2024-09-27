@@ -1,0 +1,22 @@
+O 2.3 RETRIEVE/SAVE CONFIGURATION
+DARPA SPACE SYSTEM COST STUDY PROGRAM
+DARPASS Program Operations
+Designate Mission Baseline
+Input New Configuration
+Modify Existing Configuration
+Retrieve Configuration
+save Configuration
+Execute
+File Operations/Maintenance
+Terminate & Return to DOS
+These options let the user save, and later retrieve, a
+configuration of cost variables. "Configuration" represents
+the Primary and Secondary cost variables that were selected
+during data input (Section 2.2).
+SAVE CONFIGURATION saves the selected variable ratings i.e.,
+baseline, option 1, option 2, etc., so that the costs
+associated with a specific approach to developing the
+hardware can be repeated. Following is an example of the
+menu displayed when the user decides to save a file. File
+retrieval uses the same method but in the reverse.
+DARPASS -Page 7

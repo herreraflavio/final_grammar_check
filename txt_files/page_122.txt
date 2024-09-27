@@ -1,0 +1,42 @@
+1.0 INTRODUCTION
+This is the user's manual for the DARPA Space System Cost
+Study Contract -Automated Database. This document provides
+a description of the user interface, the processing, and the
+output information that is provided as part of the automated
+database. Sample screen displays are provided as examples.
+A high level flow diagram is also provided. This flow
+diagram shows in linear format, the steps involved in
+executing the automated database. The DARPA automated
+database will hereinafter be referred to as the DARPASS
+(DARPA Spacc System Model).
+The model is designed to run on a standard IBM PC or
+compatible. It is configured so that it may be executed
+using a dual disk drive arrangement or a single IOMEGA disk
+cartridge. The DARPASS is capable of providing graphics on
+machines equipped with enhanced graphics adapters, color
+graphics adapters, or monochrome Hercules board
+configurations. The model is operable in a stand alone
+configuration, i.e., no special pieces of software or
+hardware are required to access all of its capabilities. No
+secondary licensing is required to distribute the DARPASS
+program. Any primary licensing arrangements are at the
+discretion of Martin Marietta Corporation.
+Hard copies of the information are produced on standard dot
+matrix printers. The DARPASS provides all hard copy printed
+tables and other output reports in the same format as
+displayed on the screen.
+The DARPASS provides both cost and statistical data for a
+Light Satellite conceptual design. The "baseline" cost
+values contained in the DARPASS represent the expense of
+developing and producing the Light Satellite under "start
+from scratch" conditions. Alternate approaches to the
+"start from scratch" conditions are constructed using the
+Primary and Secondary Cost Variables. The DARPASS furnishes
+the cost and cost reduction statistics associated with these
+alternate approaches.
+The DARPASS is menu controlled and error trapped to provide
+the user with a simple vehicle for obtaining cost and
+statistical information. The main menu, termed "DARPASS
+Program Operations," is displayed following virtually all
+tasks. This menu allows access to all operations of theDARPASS program and is displayed on the next page:
+"ii

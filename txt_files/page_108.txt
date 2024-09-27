@@ -1,0 +1,27 @@
+INPUT PARAMETER BASELINE OPTiIN OPT~IONL2 OPTION 3
+~ DEVELOP1MENT
+PEP
+Struct. Analysis Box
+ECMPLX (Q5 -150) -+.05 +.1 +.15
+Structure Boxes (Q5 -150)
+ECMPLX -+.05 +.1 +.15
+Test Boxes (Q5 -150)
+ECMPLX -+.05 +.l +.15
+Weight -+10% +15% +18%
+EAGE Test Equipment
+ECMPLX (Q5 -150) -+.05 +.1 +.15
+Test Sets -ACS, C&DH,
+ETE (Q5 -150)
+ECMPLX -+.05 +.l +.15
+Weight -+10% +15% +18%
+PRODUCTION
+Test Boxes (Q5 -150)
+MCPLXS --. 2 -.5 -.7
+AI&T Boxes (Q5 -150)
+HCPLXS --.1 -.2 -.3
+Structure Boxes (Q5 -150)
+MCPLXS - -.2 -.4 -.6
+GPTLGT (Q5 -150) PRIME 2.0 1.8 1.6 1.4 t& GPTLGT (Q5 -150) SUB 2.0 1.8 1.6 1.4
+Integ. & Assy Boxes (Q5 -150)
+MCPLXS - -.2 -.4 -.6MCPLXE --.1 -.2 -.3
+CANDIDATE VARIABLES -18

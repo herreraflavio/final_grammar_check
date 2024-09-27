@@ -1,0 +1,42 @@
+1.0 EXECUTIVE SUMMARY
+1.1 STUDY OBJECTIVE
+-- The objective of the "Space System Cost Study,"
+contract MDA972-87CUU5, was to develop a methodology
+and automated database/model that would enable DARPA to
+evaluate *low cost satellite" programs and appropriate
+cost reduction approaches. i
+1.2 DESCRIPTION OF STUDY ACTIVITIES
+The initial step in this cost study was to derive an
+estimate for developing and producing a "light"
+satellite under "business as usual" conditions. These
+conditions include a "start from scratch" philosophy
+and all the traditional operating procedures and
+documentation associated with building a reliable
+spacecraft.
+The Martin Marietta "Lightsat" early conceptual design
+was selected as the baseline from which all trades
+would be performed. The selection of the baseline
+design was an arbitrary decision based on available
+data. The analysis could have been accomplished with
+cany contractor's conceptual design.
+The significance of the baseline cost modeling effort
+was to determine a cost estimate that would represent
+the current culture of the satellite industry. This
+culture generally follows a "business as usual," "start
+from scratch" development approach. The concept of
+satellite production, especially a low cost version,
+appears to be a deviation from the current industry
+culture.
+The baseline program emulates a typical Space Division
+(U. S. Air Force Space Division) Mil-Std 1450B-type
+spacecraft. The vehicle mission type used for the
+analysis is a communications-radio relay spacecraft,
+selected because one of the early DARPA spacecraft
+missions is projected to be of this variety.
+The cost estimates and trades to the baseline developed
+as a result of this study, are applicable to any
+spacecraft that contains a similar functional mix of
+structure, payload, and electronics. Larger spacecraft
+with a different mix of the aforementioned items may
+not experience the same degree of potential costbenefits as the communications-radio relay vehicle.
+EXECUTIVE SUMMARY -I

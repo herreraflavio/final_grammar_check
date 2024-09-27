@@ -1,0 +1,42 @@
+8) SIZE/EFFICIENCY OF PRODUCTION FACILITY
+This variable addresses the cost impact of using a largefacility involved in many contracts and having many required
+operating procedures, versus using a smaller more
+streamlined operation with additional flexible operating
+procedures. This small operation could represent a special
+subcontractor or a splinter operation from the main
+contractor.Weight:
+Oualitative Scale
+B) Production facility is a large diversified operation
+with many manufacturing efforts occurring concurrently;
+shared facility and shared equipment. Very high
+manufacturing overhead (150%+) with large engineering
+groups charging indirect. Many operational procedures
+in place. Detailed job accounting required due to
+numerous contracts. Machine tools used for numerous
+jobs. Scheduling of activities required and sometimes
+difficult. Cost of building machines/tooling spread
+over job shop business base.
+1) Production facility is a large diversified operation
+with only a few large efforts occurring concurrently.
+Shared facility but equipment is often set up and
+dedicated to specific jobs. High manufacturing
+overhead (110%+) with few groups charging indirect.
+Many operational procedures in place. Job accounting
+required for few contracts. Scheduling of activities
+required but less difficult. Cost of building
+machines/tooling spread over job shop business base. I
+2) Production facility is a medium-sized operation with
+special manufacturing/assembling expertise involved on
+few contracts. Equipment and even sections of the
+operation may be set up and dedicated to specific
+jobs. Medium manufacturing overhead (80%+).
+Streamlined operational procedures. Job accounting
+required for few contracts. Scheduling of activities
+of little or no difficulty.
+3) Production facility is a medium to small operation with
+special manufacturing/assembling expertise dedicated to
+one specific contract or oriented toward producing a
+generic family of products. Much of the equipment and
+facility is dedicated to a specific contract. Low
+manufacturing overhead (50%+). Streamlined operationalprocedures. Simple job accounting required.Scheduling of activities is not difficult.
+CANDIDATE VARIABLES -15

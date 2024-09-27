@@ -1,0 +1,37 @@
+The baseline cost values for the "Light Satellite"
+conceptual design are displayed in Table 1.3.0. As
+stated previously, these values rcrresent the "business
+as usual" approach to developing the space hardware.
+The values for Cost Variables one through 11 are
+displayed in Tables 1.3.1.$ to 1.3.11.$. There are
+three unique cost tables for each Cost Variable that
+correspond to the three options evaluated for each
+variable. Each table contains the data for the three
+phases: Development, PEP, and Production.
+The percent savings/investments by phase are also shown
+in Tables 1.3.1.% to 1.3.11.%. The savings are
+represented by positive values, while the cost
+investments (increases) are displayed as negative
+values. As with cost, there are three unique percent
+tables for each Cost Variable that correspond to the
+three options evaluated for each variable.
+The percent values displayed in these tables are the
+cost savings and investment derived when the Cost
+Variables are applied independently of one another.
+The savings and investment values change when Cost
+Variables are applied concurrently. Generally, the
+cost savings over the baseline would increase when
+applying multiple variables. The mechanisms for
+accomplishing this process are included in the DARPASS
+Program.
+--;The methodology and results are based on a point
+conceptual design. For the government to see the
+appropriate Aime phased'impact the parametric group
+recommends that when wLightsat"lis awarded, an actual
+characterization be generated and that characterization
+live with the design and build life cycle. Real-time
+adjustments and decisions (cost and schedule) can be
+implemented from DARPASS data to arrive at the lowest
+possible program cost. h
+I
+EXECUTIVE SUMMARY -4

@@ -1,0 +1,36 @@
+SECONDARY COST VARIABLES
+6) STREAMLINING MANAGEMENT OPERATIONS
+This variable accounts for changes in the management
+philosophy. There are controllable programmatic factors
+that can reduce the level of management and streamline the
+management process.
+7) LEVEL OF DELIVERABLE DOCUMENTATION REQUIRED
+This variable addresses the cost of various levels of
+required documentation. It also reveals the associated
+costs of management and customer reviews.
+8) SIZE/EFFICIENCY OF PRODUCTION FACILITY
+This variable addresses the cost impact of using a large
+facility involved in many contracts and having many required
+operating procedures, versus using a smaller, more
+streamlined operation with additional flexible operating
+procedures. This small operation could represent a special
+subcontractor or a splinter operation from the main
+contractor.
+9) MANUAL VERSUS AUTOMATED MANUFACTURING & TEST METHODS
+This variable addresses the cost savings/added costs of
+using automated, autonomous type manufacturing machine tools
+versus traditional labor intensive machine tools. It also
+addresses the added costs/savings of using automated test
+methods.
+10) LEVEL OF DESIGN/TECHNOLOGY CHANGES AND UPGRADES
+This variable addresses cost/savings due to incorporation of
+design and technology changes during the manufacturing
+process. These changes are assumed to be of minor impact
+and are more of a tuning function.
+11) LAUNCH VEHICLE SIZE AND WEIGHT CONSTRAINTS
+This variable addresses the cost impact to development when
+the spacecraft/payload is approaching the limits of the lift
+capabilities of the launch vehicle. This variable assumes
+that all weight related issues are addressed during design
+and PEP; therefore, no impact to production is realized.
+SUMMARY OF CANDIDATE VARIABLES

@@ -1,0 +1,34 @@
+4) MISSION LIFE -LEVEL OF PERFORMANCE/RELIABILITY REOUIRED
+This variable addresses the cost impact related to length of
+mission life. It also indicates the effect of more reliable
+parts on component and assembly costs.
+Weight:
+Qualitative Scale
+B) Mission requirements are for an extended mission life.
+S class components -highest possible performance/
+reliability required. Full up S Class parts have major
+Commercial parts are available that meet performance/
+reliability requirements. Mission requirements are for
+a short mission life of less than two years. All
+components and assemblies are of reduced reliability.
+Small level of failures expected/tolerable.
+1) B Class components -very stringent design
+requirements. Mission requirements are for a minimum
+of two or three year mission life; satellite must
+operate effectively over this period. Component parts
+and assemblies MTBF (mean time between failures) must
+be rated/certified to exceed mission requirements.
+Spacecraft reliability must insure mission success.
+2) Mil standard components or less stringent design
+requirements. Mission requirements are for a reduced
+mission life of two to three years. Less stringent
+component and assembly MTBF. Less testing involved to
+insure longevity of mission. Wider tolerances
+permitted on spacecraft reliability. Very small level
+of failures expected/tolerated.
+3) Commercial parts are available that meet performance/
+reliability requirements. Mission requirements are for
+a short mission life of less than two years. All
+components and assemblies are of reduced reliability.
+Small level of failures expected/tolerable.
+CANDIDATE VARIABLES -7

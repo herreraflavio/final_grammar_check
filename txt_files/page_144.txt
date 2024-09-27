@@ -1,0 +1,26 @@
+2.5.2.1 ADD/MODIFY MISSION SELECTIONS
+The selection of ADD/MODIFY MISSION SELECTIONS allows the
+user to add, change, or delete spacecraft mission baselines
+(i.e., communications-radio relay mission). When this
+option is chosen, the selections currently available under
+the MISSION BASELINE menu are displayed (see Section 2.1
+Designate Mission Baseline). The DARPASS provides an
+editor-type mode for updating this MISSION BASELINE menu.
+Each added spacecraft mission baseline should be provided
+with the associated database name. This database will
+contain all the component parts, cost values, other cost
+data associated with the mission, and the cost reduction
+percentages associated with the Primary and Secondary Cost
+Variables. (See example below.)
+Mission Editor
+NAME DATABASE
+1) COMMUNICATIONS-RADIO RELAY MISSION COMDB
+2) IR -OBJECT RECOGNITION MISSION IRDB
+This example shows two spacecraft mission types
+(COMMUNICATIONS and IR) and the names of their associated
+databases, COMDB and IRDB respectively. In order to make a
+mission selection legitimate the actual database values must
+be provided. This action can be accomplished with the
+option ADD/MODIFY MISSION DATABASES.
+DARPASS -Page 20
+.er W

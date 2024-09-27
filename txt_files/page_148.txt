@@ -1,0 +1,25 @@
+UZOLML11 WUWWWWWU1MUWW.NtJVWLA --- VW WX WX WX 6uW VV v Jrvf
+To indicate which percentages are to be updated, the user is
+required to respond to the following prompts. Only the
+percentages for these specific summary codes are affected.
+Quantity (5, 25, 50, 100, 150):
+Variable (0-11) (0 -BASELINE):
+Option (1 -3):
+LIST ALL RECORDS provides a list of all the records
+contained in the database segregated by item summary code.
+An item summary code is a number used to identify an item in
+the same way as an item name. Baseline values by phase for
+each production quantity are displayed for each item.
+LIST A RECORD provides all the information contained on a
+component part selected by a specific summary code. The
+DARPASS prompts the user for the following information:
+ENTER PART CODE:
+SELECT PHASE (1-DEVELOP, 2-PEP, 3-PRODUCTION):
+ENTER VARIABLE (0 -12, 0 = BASELINE):
+ENTER OPTION (1 -3):
+The information displayed by DARPASS will either be the
+baseline dollar values or the percent reduction values (if
+variable = 1 to 12) for all quantities (5, 25, ...150) for
+the selected part.
+DARPASS -Page 24
+- -

@@ -1,0 +1,31 @@
+.2.5.2.2 ADD/MODIFY MISSION DATABASES
+The user must create a new database or update an existing
+database (through modification of the MISSION BASELINE menu)
+to make appropriate cost values available to reflect new
+spacecraft missions. This is accomplished by accessing the
+selection ADD/MODIFY MISSION DATABASES.
+This option provides all the utilities to either update and
+add records to existing mission databases or to add files
+that represent new mission databases. There must be a
+database for each new mission. When ADD/MODIFY MISSION
+DATABASES is selected, this is the menu displayed:
+Select Database
+Create New Database
+Use Existing Database
+CREATE NEW DATABASE
+When this option is chosen, there is a prompt to input the
+name of the new database; ENTER FILENAME:. The DARPASS
+checks to see if a "mission name" has already been created
+for the database. The "mission name" and a database name
+may have been input using the ADD/MODIFY MISSION SELECTIONS
+function. If a mission name exists, the DARPASS will print
+this name. If there is no mission name for the database,
+the DARPASS also indicates that a mission name needs to be
+added using the ADD/MODIFY MISSION SELECTIONS. The DARPASS
+will also indicate that the database cannot be accessed
+until a mission name is provided. The user receives the
+following menu after the database name is input:
+New Database -Utilities
+1 -Read Baseline Cost Values
+2 -Read Cost Variables
+DARPASS -Page 21

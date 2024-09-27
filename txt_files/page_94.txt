@@ -1,0 +1,43 @@
+RCA Model Parameters
+Notes:
+-Change globals for both prime and teammates as indicated.
+-Changes to test boxes affect prime costs only.
+-Changes to tooling global for test boxes only.
+-Reduce EAGE support equipment for those tests that have
+been reduced or eliminated.
+INPUT PARAMETER BASELINE OPTION 1 OPTION 2 OPTION 3
+DEVELOPMENT
+Test Boxes Weights
+Dynamic Test&Refurb - -10% -25% -40%
+Acoustics & Thermal - -10% -25% -40%
+Payload/Transponder - -15 -30 -50
+GDTLGT 2.0 1.9 1.7 1.5
+EAGE Box Weights
+Doppler Effect Elec. 7.0 3.5 0 0 *
+Trans/Rec. Test Elec 10.0 5.0 0 0 *
+C&DH Test Data Equip 25 23 20 17
+ACS Test Set 27 25 22 19
+Ordnance Test Equip 30 28 25 22
+PEP
+Test Boxes Weights
+Test Review 24 21 17 12
+EAGE Box Weights
+Doppler Effect Elec. 7.0 3.5 0 0 *
+Trans/Rec. Test Elec 10.0 5.0 0 0 *
+C&DH Test Data Equip 25 23 20 17
+ACS Test Set 27 25 22 19
+Ordnance Test Equip 30 28 25 22
+PRODUCTION
+Test Boxes Weights
+Dynamic Test&Refurb - -10% -25% -40%
+Acoustics & Thermal - -10% -25% -40%
+Payload/Transponder - -15 -30 -50
+GDTLGT 2.0 1.9 1.7 1.5
+Test Quantities
+Dynamic, Acoustics,
+Thermal, Payload: 5 4 3 225 12 8 5
+50 25 17 10
+100 50 34 20
+150 75 50 30
+A box containing a zero weight value should be commented outof the data file.
+CANDIDATE VARIABLES -4

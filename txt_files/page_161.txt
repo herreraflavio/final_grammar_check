@@ -1,0 +1,18 @@
+*LEVEL OF STATISTICS
+Individual Statistics
+Composite Statistics
+DISPLAY FORMAT
+Tables
+Line Graph
+Bar Chart
+DISPLAY MODE
+Screen
+Printer
+The output displays associated with different combinations of the
+above selections are discussed below and are segregated into four
+principle categories that are discussed individually:
+A) Cost Information Display Tables -Path 1
+B) Statistical Information Display Tables -Path 2
+C) Cost Information Graphical Displays -Path 1
+D) Statistical Information Graphical Displays -Path 2
+B-3

@@ -1,0 +1,46 @@
+COMPOSITE STATISTICS
+-SPACECRAFT TOTALS -This output option, graphical composite
+statistics, operates in a similar manner to the previously
+detailed individual statistics. The user receives from one to
+ten graphical displays with each of the graphs representing a
+specific production quantity.
+The total percent cost savings values for Development, PEP,
+Production, or total of all phases for each summary item are
+graphed against the Cost Variables. These cost savings values
+represent the absolute savings of each summary item to the total
+baseline cost value. This absolute cost value for Composite
+Statistics should be distinguished from the relative cost value
+of the Individual Statistics. "Relative" represents the cost
+savings percent of a summary item with respect to itself
+(baseline cost). "Absolute" represents the cost savings percents
+of a summary item with respect to the baseline cost of all
+summary items combined (total cost of the spacecraft).
+The cost savings percents are the y-axis, and the cost variables(one to 11) are the x-axis. The histograms represent the total
+cost savings percents for different cost variables. The x-axis
+is scaled for 11 variables. The only histograms that are present
+are those that represent Cost Variables that have been selected.
+Thus, there may be between one and 11 histograms. The height of
+the histograms represents the absolute cost savings percents for
+the Primary or Secondary Cost Variable for the summary item
+compared to the total baseline cost.
+There are occasions when there are fewer histograms than the
+number of Primary or Secondary Cost Variables selected. This is
+because some variables may have no impact on a particular item.
+S
+2 -SUBSYSTEM LEVEL operates in much the same way as individual
+statistics detailed above. The user receives from one to 25
+graphical displays. Each graph is for a specific production
+quantity as selected by the user through the DISPLAY SAVINGS
+menu.
+The total percent cost savings values for Development, PEP,
+Production, or total of all phases for each summary item is
+graphed against the Cost Variables. These cost savings values
+represent the absolute savings of each summary item to the total
+baseline cost value. This absolute cost value for Composite
+Statistics should be distinguished from the relative value of the
+Individual Statistics. "Relative" represents the cost savings
+percent of a summary item with respect to itself (baseline
+cost). "Absolute" represents the cost savings percents of a
+summary item with respect to the baseline cost of the total
+spacecraft.
+B-30

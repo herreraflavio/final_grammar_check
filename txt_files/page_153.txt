@@ -1,0 +1,18 @@
+@ 2.6 TERMINATE AND RETURN TO DOS
+DARPA SPACE SYSTEM COST STUDY PROGRAM
+DARPASS Program Operations
+Designate Mission Baseline
+Input New Configuration
+Modify Existing Configuration
+Retrieve Configuration
+Save Configuration
+Execute
+File Operations/Maintenance
+Terminate & Return to DOS
+Tnis selection passes control to the DOS system level. If
+the user has input a new configuration file or has modified
+an existing file and has not yet saved the information, the
+DARPASS provides an opportunity to save the information
+before returning to DOS.
+DARPASS -Page 29
+m2k

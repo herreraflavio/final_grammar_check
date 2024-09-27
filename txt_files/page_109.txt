@@ -1,0 +1,30 @@
+10) LEVEL OF DESIGN/TECHNOLOGY CHANGES AND UPGRADES
+This variable addresses cost/savings due to incorporation of
+design and technology changes during the manufacturing
+process. These changes are assumed to be of minor impact
+and are more of a tuning function.Weiaht:
+Oualitative Scale
+B) Extensive changes to spacecraft/payload baseline; many
+engineering change notices (ECN). Extensive Class 1
+and Class 2 change traffic during production
+activities. Changes have effect on work in progress.
+1) Above "average" level of engineering changes to
+baseline. Many Class 1 and Class 2 engineering changes
+are implemented during production activities. Some
+rework required on partially completed units.
+2) "Average" amount of changes to baseline. Most of the
+modifications are Class 2 or other simple refinements.
+No rework to partially complete units.
+3) Slight modifications or no changes to spacecraft/
+payload baseline. Production activities proceed
+without interruption due to incorporation of these
+changes.
+RCA Model Parameters
+Notes:
+-Changes are reflected in production and PEP activities
+only.
+-ECNS/ECNE cause changes to production costs.
+-Increased paper designs need to be made to NEWEL & NEWST
+to incorporate new components and design to mechanisms.
+-Mode 2 structural items should not be affected.
+CANDIDATE VARIABLES -19

@@ -1,0 +1,26 @@
+The cost savings percents are the y-axis, and the cost variables
+(one to 11) are the x-axis. The histograms represent the total
+cost savings percents for different cost variables. The only
+histograms that are present are those selected by the user.
+Thus, there may be between one and 11 histograms. The height of
+the histograms represents the absolute cost savings percents for
+the Primary or Secondary Cost Variables for the summary item,
+compared to the total baseline cost.
+There are instances where there will be fewer histograms than the
+number of Primary or Secondary Cost Variables selected. This is
+because some variables may have no impact on a particular item.
+3 -COMPONENT PARTS -The DARPASS does not provide graphical
+displays to the component part level.
+4 -TOTALS ONLY -The user receives one (1) graphical display.
+The total cost savings percents for Development, PEP, Production
+or total of all phases (depending on the user's selections) is
+graphed against the 11 cost variables. The graph is for a
+specific production quantity as selected by the user in the
+DISPLAY SAVINGS menu.
+The cost savings scale is the y-axis and the cost variables (one
+to 11) are the x-axis. The histograms represent the total cost,T savings percents for the different cost variables. These cost
+savings values represent the absolute savings of each variable
+(and selected quantity) to the total baseline cost value.
+SEE FOLLOWING PAGE FOR COMPOSITE STATISTICS
+BAR CHART DISPLAY EXAMPLE.
+B-31

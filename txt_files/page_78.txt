@@ -1,0 +1,22 @@
+2.2 MODELING METHODOLOGY
+The Martin Marietta concept design for "Lightsat" was
+used as the starting point for the modeling effort. As
+mentioned previously, the light satellite cost study
+baseline is similar to the Martin Marietta "Lightsat"
+design, but does not mirror it due to continual design
+updates. A Work Breakdown Structure (WBS) was
+developed as was an equipment list for the light
+satellite. The equipment list varies slightly between
+program phases (Development, PEP, and Production).
+Figures 2.2-1 to 2.2-4 illustrate the WBS and equipment
+lists used for modeling the baseline. Any change to
+components to simulate the effect of a Primary or
+Secondary cost variable was reflected by appropriate
+changes to those same items in the succeeding phases
+(i.e., PEP, Production). The dollar impacts and
+percent savings statistics are provided through the
+DARPASS model in either tabular or graphic format.
+M O
+iI
+II
+METHODOLOGY -2

@@ -1,0 +1,28 @@
+2.5.1 FILE MAINTENANCE
+The first function provides for display and manipulation of
+configuration files. When an input file is saved (See SAVE
+CONFIGURATION -DARPASS Program Operations menu), it is
+saved with a special file extension (.FIG) that identifies
+it as a DARPASS configuration file. Displayed in the sample
+menu below are the options available with this file
+maintenance function:
+File Operations
+List Configuration Files
+List All Files
+Delete Configuration File
+The LIST CONFIGURATION FILES option provides a CRT-displayed
+list of the DARPASS configuration files currently stored on
+disk. The user can specify the disk drive from which the
+configuration files will be read and listed. If necessary,
+the user can also specify a "path" to a subdirectory.
+The second option, LIST ALL FILES, provides a CRT-displayed
+list of all files currently stored on disk. Again, the user
+can specify the disk drive and/or subdirectory from which
+the files are to be listed.
+DELETE CONFIGURATION FILE lets the user delete obsolete
+configuration files. He/she is prompted for the file to be
+deleted and may only delete files from the current "default"
+directory, i.e., disk drive or subdirectory designations are
+not permitted. Wildcards also cannot be used in this
+deletion process.
+DARPASS -Page 18

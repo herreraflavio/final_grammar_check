@@ -1,0 +1,19 @@
+"Path 2" allows the user to obtain the impact of the cost
+variables as a percent of the baseline cost. The baseline
+cost values represent the cost of the spacecraft under
+traditional, "start from scratch" development conditions.
+The menu used when deciding between "Path 1" -cost
+information and "Path 2" -statistical information looks
+like this:
+Output Information
+Cost Information
+Statistical Information
+The second option, STATISTICAL INFORMATION, allows the user
+to either compare the cost savings of individual variables
+or the cost saving approaches of multiple variables. This
+information is somewhat independent of a typical prime
+contractor's light satellite design baseline as it provides
+relative cost savings for alternate approaches rather than
+discrete cost values reflecting a specific design.
+DARPASS -Page 10
+9 ~*~

@@ -1,0 +1,27 @@
+APPENDIX B -OUTPUT REPORTS
+S This appendix provides the format for the output reports of the
+DARPASS program. When the DARPASS program is invoked, the user
+receives a hierarchical set of menus that allows him/her to
+select the specific output information desired. The first menu
+requires a selection between COST INFORMATION and STATISTICAL
+INFORMATION. It is as follows:
+Output Information
+Cost Information
+Statistical Information
+COST INFORMATION DISPLAY SELECTIONS
+Based on the response to the above menu, the DARPASS follows one
+of two paths. These paths provide menus permitting selection of
+either light satellite cost information or statistical
+information. Path 1 for light satellite cost information, is as
+follc :s:
+DATA LEVEL
+1 -Spacecraft Totals
+2 -Subsystem Level
+3 -Component Parts
+4 -Totals Only
+PHASE OF DEVELOPMENT
+1 -Development Phase
+2 -PEP Phase
+3 -Production Phase
+4 -Totals Only
+B-1

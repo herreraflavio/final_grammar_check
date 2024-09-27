@@ -1,0 +1,27 @@
+COST VALUE
+Total Cost
+Unit Cost
+Cost Savings
+DISPLAY FORMAT
+Tables
+Line Graph
+Bar Chart
+DISPLAY MODE
+Screen
+Printer
+VARIABLE STATISTICS DISPLAY SELECTIONS
+The second set of menus for statistical information, Path 2, is
+shown below. The two sets of menus operate in the same manner
+with the only noticeable difference being the options provided.
+DATA LEVEL
+1 -Spacecraft Totals
+2 -Subsystem Level
+3 -Component Parts
+4 -Totals Only
+PHASE OF DEVELOPMENT
+1 -Development Phase
+2 -PEP Phase
+3 -Production Phase
+4 -Totals Only
+B-2
+VN 'X

@@ -1,0 +1,35 @@
+Display Format
+Tables
+Graphs
+Bar Chart
+Display Mode
+Screen
+Printer
+Cursor control utility allows selection of: level, phases,
+level of statistics, format, etc. The arrow keys are used
+to position the cursor on the desired menu selection;
+pressing a RETURN will activate the chosen option. The
+menus are displayed on individual screens in the above
+hierarchical sequence.
+The user may select any combination of these options. An
+ESC key, identified in the key menu on line 25 of the CRT
+screen, will pass program control to the previous output
+selection menu. Executing a RETURN over a desired selection
+will implement the selection and move to the next menu.
+Sample output displays for statistical information are
+provided in Appendix B. As with cost information, summary
+descriptions of output report information can be found in
+Section 3.0.
+Again, as with cost information, if the user has selected
+BAR CHART for the format of output (LINE GRAPHs are not
+available at this level) and either SPACECRAFT TOTALS or
+SUBSYSTEM LEVEL from the Data Level menu, he/she will move
+to one of two additional menus. These menus allow the user
+to narrow the scope of output information to specific
+spacecraft items or subsystems.
+The menus contain a list of summary items, and the user can
+decide on specific items he/she wishes to view graphically.
+The summary items are configured with the MAINTENANCE
+function (see DARPASS Program Operations menu). A sample
+Data Sublevel menu is provided on the following page:
+DARPASS -Page 15

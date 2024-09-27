@@ -1,0 +1,23 @@
+PRIMARY COST VARIABLES
+1) USE OF EXISTING EQUIPMENT
+This variable addresses the cost effect of using equipment
+that already exists and is flight certified or exists in the
+field and needs slight modification, versus equipment that
+must be developed from scratch or requires extensive
+modification to an existing design.
+2) TESTING APPROACH
+This variable addresses the cost effect of alternate testing
+approaches. It encompasses the level of testing, i.e.,
+system, subsystem, module, etc., the types of testing, and
+the frequency of testing.
+3) SYSTEM MODULARITY/DESIGN MODULARITY
+This variable addresses the cost impact of a modular versus
+a non-modular design and how modular design affects design
+and production costs.
+4) MISSION LIFE -LEVEL OF PERFORMANCE/RELIABILITY REOUIRED
+This variable addresses the cost impact related to length ofmission life. It also indicates the effect of more reliableparts on component and assembly costs.
+5) MECHANICAL/STRUCTURAL MATERIALS AND TOLERANCES
+This variable relates cost to the types of materials used to
+produce the spacecraft/payload and the precision to which
+these parts must be produced.
+SUMMARY OF CANDIDATE VARIABLES

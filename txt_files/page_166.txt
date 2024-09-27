@@ -1,0 +1,26 @@
+,- k fVK ) r7U w - - -7-- , r - .W U, W
+2 -SUBSYSTEM LEVEL operates in the same manner as the previous
+option, SPACECRAFT TOTALS. This function permits naming of up to
+25 space division subsystem summaries. The user must again input
+the component part identification codes for each summary item.
+The 25 (or less) space division subsystem summary items provided
+by the user will appear in the same output format as the
+SPACECRAFT TOTALS table displayed above. The component items
+that have been identified with each summary item will have costs
+aggregated and a total cost provided for each summary item. An
+example of this type of output table is provided below. The
+example (as indicated by the title) displays PEP unit cost
+values. (Menu selections: SUBSYSTEM LEVEL -PEP PHASE -UNIT
+COST -TABLES).
+DARPA -LIGHT SATELLITE -SPACE SYSTEM COST STUDY
+PEP Phase UNIT COST VALUES (DOLLARS xl000)
+SPACE DIV.
+SUMMARY ITEM Otv 5 O tv 25 Oty 50 Otv 100 Otv 150
+ITEM #1
+ITEM #2
+ITEM #3
+ITEM #23
+ITEM #24
+ITEM #25
+TOTALS
+B-8

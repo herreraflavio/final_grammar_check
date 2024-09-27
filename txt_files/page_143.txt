@@ -1,0 +1,20 @@
+2.5.2 PROGRAM CONFIGURATION
+The second option in the MAINTENANCE FUNCTION menu (see
+below) lets the user configure the program and the output
+reports.
+Maintenance Functions
+File Maintenance
+Program Configuration
+Entry to this function is restricted to authorized
+personnel. The user is prompted for the password when this
+function is selected. An incorrect password causes the
+computer to display an error message and return to the
+Maintenance Functions menu. Responding with the correct
+password will pass control to the Program Configuration
+menu:
+Program Configuration Menu
+Add/Modify Mission Selections
+Add/Modify Mission Databases
+Configure Output Reports
+DARPASS -Page 19
+.... .. -.

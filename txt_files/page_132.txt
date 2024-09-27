@@ -1,0 +1,22 @@
+CURRENT FILE NAME IS 'filename'
+NOTE: FILE NAMES MAY NOT EXCEED EIGHT (8)
+CHARACTERS.
+ALL FILE NAME EXTENSIONS ARE .FIG
+DISK DRIVES MAY ALSO BE SPECIFIED
+FORMAT OPTIONS:
+1) FILENAME.FIG
+FIG = DEFAULT EXTENSION
+(SAVES FILE TO DEFAULT DISK DRIVE)
+2) C:FILENAME.FIG
+C: = DISK DRIVE
+FIG = DEFAULT EXTENSION
+(SAVES FILE TO DRIVE C:)
+ENTER SAVE FILE NAME:
+Files are saved with a special default extension (.FIG) that
+identifies them as DARPASS configuration files. If the user
+attempts to save a file using the same file name as one
+already resident on the disk, he/she will be asked by aAm DARPASS prompt whether or not to overwrite the file.
+Responding with a negative to this prompt will allow the
+user to rename the file before attempting the save operation
+again.
+DARPASS -Page 8

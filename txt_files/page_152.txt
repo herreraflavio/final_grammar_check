@@ -1,0 +1,18 @@
+The ten (or less) spacecraft summary items appear in the
+appropriate output report. The component items that have
+been identified with a summary item have costs aggregated
+with a total cost provided for each summary item (see
+Appendix B).
+SPACE DIVISION SUBSYSTEM CONFIGURATION operates in the same
+fashion as the previous option. It permits naming of up to
+25 space division subsystem summaries. The user must again
+establish the component identification codes for each
+summary item. The component identification codes for all
+items contained in the Development, PEP, and Production
+files are provided in Appendix C.
+The twenty-five (or less) space division subsystem summary
+items appear in the output report. The component items that
+have been identified with a summary item have costs
+aggregated with a total cost provided for each summary item
+(see Appendix B).
+DARPASS -Page 28

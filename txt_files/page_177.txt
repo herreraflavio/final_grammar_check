@@ -1,0 +1,36 @@
+COST INFORMATION -LINE GRAPH DISPLAYS
+1 -SPACECRAFT TOTALS -The user receives from one to ten
+graphical displays depending on the number of Spacecraft/Payload
+summary items that have been configured in the maintenance phase
+and the number of summary items that were selected from the DATA
+SUBLEVEL Menu. The total cost, unit cost, or cost savings for
+Development, PEP, Production, or total of all phases (depending
+on the user's selections) for each summary item (one to ten) is
+graphed against production quantity. The cost scale is the
+y-axis, and the production quantity (five to 150) is the x-axis.
+The function represents the total cost curve, unit cost curve, or
+cost savings curve for different production quantities.
+2 -SUBSYSTEM LEVEL -The user receives from one to 25 graphical
+displays depending on the number of Space Division Subsystem
+summary items that were configured in the maintenance phase and
+the number of those summary items selected from the DATA SUBLEVEL
+menu. The total cost, unit cost, or cost savings values for
+Development, PEP, Production, or total of all phases (depending
+on the user's selections) for each summary item (one to 25) is
+graphed against production quantity. The cost scale is the
+y-axis, and the production quantity (five to 150) is the x-axis.
+The function represents the total cost curve, unit cost curve, or
+cost savings curve for different production quantities.
+3 -COMPONENT PARTS -The DARPASS does not provide graphical
+displays to the component part level.
+4 -TOTALS ONLY -The user receives one (1) graphical display.
+The total cost, unit cost, or cost savings values for
+Development, PEP, Production or total of all phases (depending on
+the user's selections) is graphed against production quantity.
+The cost scale is the y-axis and the production quantity (five to
+150) is the x-axis. The function represents the total cost
+curve, unit cost curve, or cost savings curve for different
+production quantities.
+SEE FOLLOWING PAGES FOR COST INFORMATION
+LINE GRAPH DISPLAY EXAMPLES.
+B-19

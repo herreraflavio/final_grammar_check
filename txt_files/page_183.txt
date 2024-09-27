@@ -1,0 +1,31 @@
+DATA SUBLEVEL
+1 -Comm Payload
+2 -Electronics
+3 -Structures
+4 -Assembly/Integration
+5 -Test
+6 -Totals Only
+The user also has to specify the production quantity for which
+graphical information is desired. This "quantity" selection is
+specified through a separate menu that precedes the DATA SUBLEVEL
+menu and is displayed below:
+DISPLAY QUANTITY
+1 -Quantity 5
+2 -Quantity 25
+3 -Quantity 50
+4 -Quantity 100
+5 -Quantity 150
+Sample graphical displays are given on the following pages. The
+format of the graphical displays is representative of how all
+statistical data for a given output combination is provided. The
+graphical displays use similar headings as the table displays,
+space permitting. Two sample graphical display title blocks are
+provided below:
+PRODUCTION PHASE
+ASSEMBLY/INTEGRATION
+(Percent Savings)
+DEVELOPMENT PHASE
+COMPOSITE COST EFFECT
+ALL SUBSYSTEMS
+(Percent Savings)
+B-26

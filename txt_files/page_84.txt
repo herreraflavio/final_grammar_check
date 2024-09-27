@@ -1,0 +1,39 @@
+9) A 30-month development schedule.
+10) C-Spec financial reporting required.
+11) All mechanisms qualified at the subsystem
+level.
+12) All subsystems and components were new design
+with varying engineering complexities.
+13) A full complement of build and test fixtures
+(MAGE) was i, luded in the protoflight unit
+development ac-ivities, including:
+Handling slings
+Support stands
+Frame assembly support stands
+Handling fixtures
+Containers
+Test support stands
+14) A full complement of electrical assembly
+ground equipment was included in the
+protoflight unit development activities,
+including:
+Payload test electronics
+!Battery charger set
+Power system simulator L
+C&DH test data/equipment
+ACS test set
+Ordnance test equipment
+Test cables
+15) A rigorous test program was applied under
+baseline conditions, including:
+Dynamic-vibration testing
+Acoustics and thermal testing
+Payload/transponder EM testing
+Systems testing
+Qualification and acceptance testing
+16) Additional support equipment was included in
+the form of shipping and storage containers.
+17) New software was developed to support the
+demonstration units.
+METHODOLOGY -8
+,1'r .%*&'V

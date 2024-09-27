@@ -1,0 +1,35 @@
+Next, a submenu is displayed that requires the user to
+specify if SPACECRAFT TOTALS or SUBSYSTEM LEVEL is to be
+selected. Following is an example: 0
+Configure Output Reports
+1 -Spacecraft Configuration
+2 -Subsystem Configuration
+SPACECRAFT CONFIGURATION allows the user to name up to ten
+(10) spacecraft summary items of his/her choosing. The user
+dictates which components fall under the summary item
+category by providing the component part identification
+codes. These identification codes are the five (5) discrete
+numbers separated by periods that are associated with each 0
+component part. The codes appear as x.x.x.x.x. in the item
+name (where the x's represent one or two digit numerical
+values). The costs associated with a component item will
+eventually be aggregated under the spacecraft summary item
+name as provided by the user.
+The format for the component identification codes associated
+with a particular summary item may be input as a range of
+component parts or as discrete parts. The format for input
+of the spacecraft/payload summary items is provided below.
+Note that sample responses are indicated by lower case or by
+an asterisk (*) at the end of the information. The summary
+codes for all items contained in the Development, PEP, and
+Production files are provided in Appendix C.
+SUMMARY ITEM #n NAME: payload structure
+PROVIDE COMPONENTS SUMMARY CODES:
+FORMAT: RANGE OF VALUES: X.X.X.X.X, X.X.X.X.X
+DISCRETE INPUT: X.X.X.X.X
+1.2.2.3.1, 1.2.2.3.11 *
+2.3.2.1.1*
+2.3.2.1.4 *
+3.3.2.2.1, 3.3.2.2.24 *
+°0
+DARPASS -Page 27

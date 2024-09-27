@@ -1,0 +1,32 @@
+RCA Model Parameters
+Notes:
+-Changes to both prime and teammate labor rates and global
+files.
+-For production and PEP quantities of 50, 100, 150.
+-No initial investment required -production facilities
+exist.
+-Assumes build to print production contract.
+-Reduction to overhead performed when file is WRAPped (post
+processed).
+-Switch off overhead for items that are new -do not turn
+down overhead for off-the shelf items.
+INPUT PARAMETER BASELINE OPTION 1 OPTION 2 OPTION 3
+DEVELOPMENT
+PEP
+PRODUCTION
+Overhead Manufacturing
+PRIME items (Q50 -150) --30% -60% -90%
+CPTLGT-PRIME (Q50 -150 2.0 2.0 2.2 2.4
+GPTLGT -SUB (Q50 -150 2.0 2.0 2.2 2.4
+PPROJ -SUB (Q50 -150) 2.0 1.9 1.7 1.5
+PPROJ-PRIME (Q50 -150) 1.0 .9 .8 .7
+PDATA-PRIME (Q50 -150) 1.0 .9 .8 .7
+PDATA -SUB (Q50 -150) 2.0 1.9 1.7 1.5
+ECNE 50 --.5 -1.0 -1.5
+100 --.5 -1.0 -2.0
+150 --1.0 -2.0 -3.0
+ECNS 50 --.5 -1.0 -1.5
+100 --.5 -1.0 -2.0
+150 --1.0 -2.0 -3.0
+CANDIDATE VARIABLES -16
+, V,

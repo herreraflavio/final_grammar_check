@@ -1,0 +1,27 @@
+2.1 DESIGNATE MISSION BASELINE
+DARPA SPACE SYSTEM COST STUDY PROGRAM
+DARPASS Program Operations
+Designate Mission Baseline
+Input New Configuration
+Modify Existing Configuration
+Retrieve Configuration
+Save Configuration
+Execute
+File Operations/Maintenance
+Terminate & Return to DOS
+This selection provides a menu that offers a choice of
+spacecraft/payload baselines. The DARPASS model is
+currently configured with just one (communications- radio
+relay) mission. This menu can be expanded (using the
+DARPASS MAINTENANCE option) to add other spacecraft mission
+types as they become available. The following text is
+displayed when DESIGNATE MISSION BASELINE is selected.
+DARPA SPACE SYSTEM COST STUDY PROGRAM
+Select Mission Baseline
+1 -Communications-Radio Relay Mission
+Refer to Section 2.5 of this document to see how mission
+baselines may be added to this menu and how the
+corresponding databases are subsequently created. Following
+selection of the mission baseline, the DARPASS returns to
+the Program Operations menu.
+DARPASS -Page 3

@@ -1,0 +1,34 @@
+11) LAUNCH VEHICLE SIZE AND WEIGHT CONSTRAINTS
+This variable addresses the cost impact to development when
+the spacecraft/payload is approaching the limits of the lift
+capabilities of the launch vehicle. This variable assumes
+that all weight related issues are addressed during design
+and PEP, therefore, no impact to production is realized.
+Weight:
+Oualitative Scale
+B) Very tight size/weight constraints due to launch
+vehicle limitations. Essentially no margin for growth
+in the spacecraft/payload preliminary design. Changes
+to baseline in one subsystem impact other subsystems
+due to redesign, incorporation of changes, and
+maintenance of size and weight limits; result is an
+inflexible design.
+1) Tight size/weight constraints with 5% to 10% growth
+margins. Any design changes may require redesign of
+existing subsystem components. Major rework to design
+is required when weight limitations exceeded.
+2) More relaxed size/weight constraints with 10% to 20%
+growth margins. Most changes can be made with a
+minimum degree of impact on existing components and
+subsystems. Some small redesign efforts may be
+required to incorporate changes that result in weight
+Mm growth.
+3) Size and weight limitations not projected to be an
+issue. Large margin for growth (+20%). Little or no
+redesign required for incorporating chpnges that result
+in weight growth.
+RCA Model Parameters
+Notes:
+-Affects only development and PEP costs.
+-Analysis changes for structural subsystem only.
+CANDIDATE VARIABLES -21

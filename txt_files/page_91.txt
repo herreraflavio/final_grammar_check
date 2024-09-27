@@ -1,0 +1,35 @@
+u-~ E'.~UVW U ~ WWWVWU-IlflWfl W.U W1JWVWU V V U U'.Uw WX L W
+3.0 CANDIDATE VARIABLES
+3.1 PRIMARY VARIABLE DESCRIPTIONS & MECHANICS
+1) USE OF EXISTING EQUIPMENT
+This variable addresses the cost effect of using equipment
+that already exists and is flight certified or exists in the
+field and needs slight modification, versus equipment that
+must be developed from scratch or requires extensive
+modification to an existing design.
+Weight:
+Qualitative Scale
+B) Essentially all equipment developed for the
+spacecraft/payload will be developed from scratch; no
+equipment currently exists that supports the
+requirements. Some equipment is available that
+performs "like" functions, but extensive redesign is
+required to match item characteristics.
+1) Much of the required spacecraft/payload equipment will
+have to be developed from scratch. In some instances,
+existing design can be used, but will require major
+repackaging or similar design modification. Equipment
+requirements are somewhat different from teammate's
+traditional product lines.2) Much of the equipment needed for the spacecraft/payload
+exists in some form. Some items require repackaging
+but are functionally similar to existing requirements.
+A few items will require some design modification and
+subsequently require change to the drawing package.
+3) Extensive use of existing equipment. Use of equipment
+previously flight certified and flown on spacecraft
+missions. Slight modifications and repackaging
+required on some items. Some attributes of the
+spacecraft bus are built around the characteristics of
+the existing subsystem parts.
+CANDIDATE VARIABLES -1
+.. .. .. ...... ..... -.. o r or

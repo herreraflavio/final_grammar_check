@@ -1,0 +1,41 @@
+2 -SUBSYSTEM LEVEL -The user receives from one to 25 graphical
+displays for the Space Division Subsystem summary items. Each
+graph depicts a specific production quantity as selected in the
+DISPLAY QUANTITY menu. The total percent cost savings values for
+Development, PEP, Production or total of all phases (depending on
+the user's selections) for each summary item (one to 25) is
+graphed against the cost variables. These cost savings values
+represent the relative savings of each summary item to that
+summary item's baseline cost value.
+The cost savings percents are the y-axis and the cost variables
+(one to 11) are the x-axis. The histograms represent the total
+cost savings percents for the Primary and Secondary Cost
+Variables. The x-axis is scaled for 11 variables. The only
+histograms that are present are those that represent the cost
+variables selected by the user. Thus, there may be between one
+and 11 histograms. The height of the histograms represents the 0
+relative cost savings percents for the Primary or Secondary Cost
+Variables for the item compared to its own baseline cost.
+There are times when there are fewer histograms than the number
+of Primary or Secondary Cost Variables selected. This is because
+some variables may have no cost impact on a particular item.
+3 -COMPONENT PARTS -The DARPASS will not provide graphical
+displays to the component part level.
+4 -TOTALS ONLY -The user receives one (1) graphical display.
+The total cost savings percents for Development, PEP, Production
+or total of all phases (depending on the user's selections) is
+graphed against the Primary and Secondary Cost Variables. The
+graph represents a specific production quantity as selected
+through the DISPLAY QUANTITY menu.
+The cost savings scale is the y-axis and the cost variables (one
+to 11) is the x-axis. The histograms represent the total cost
+savings percents for the different cost variables versus the
+total baseline cost. The total percent cost savings values for
+Development, PEP, Production or total of all phases (depending on
+the user's selections) are graphed against cost variables. These
+cost savings values represent the absolute savings of each
+variable with respect to the total baseline cost.
+SEE FOLLOWING PAGE FOR INDIVIDUAL STATISTICS
+BAR CHART DISPLAY EXAMPLE.
+B-28
+.. g..

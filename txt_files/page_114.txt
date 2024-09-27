@@ -1,0 +1,24 @@
+INPUT PARAMETER BASELINE OPTION 1 OPTION 2 OPTION 3
+~ DEVELOPMENT
+ECMPLX (existing H/W) --. 05 -.1 -.2
+ECMPLX (all other boxes) - -.05 -.1 -.15
+SYSTEM -PRIME 1.0 .9 .8.7
+SYSTEM -SUB 1.5 1.4 1.2 1.0
+Analysis boxes ECMPLX
+1.2.9.1.1 -Struc. --.025 -.05 -.075
+1.2.9.1.1 -EPS --.025 -.05 -.075
+1.2.9.1.3 -TT&C --.05 -.1 -.15
+1.2.9.1.33 -TT&C SUB --.05 -.1 -.15
+1.2.9.1.5 -ACS --.05 -.1 -.15
+1.2.9.1.55 -ACS SUB --.05 -.1 -.15
+1.2.9.1.6 -C&DH --.05 -.1 -.15
+1.2.9.1.66 -C&DH SUB --.05 -.1 -.15
+1.2.9.1.7 -PAYLOAD - -.05 -.1 -.151.2.9.1.77 -PAY SUB --.05 -.1 -.151.2.9.1.8 -FRONT END --.05 -.1 -.15
+PEP
+GDTLGT (Q5 -150) 2.0 1.9 1.8 1.7
+ECMPLX (Q5 -150) --.25 -.05 -.1
+all boxes
+SYSTEM-PRIME (Q5 -150) 1.0 .9 .8 .7
+SYSTEM -SUB (Q5 -150) 1.5 1.4 1.2 1.0
+PRODUCTION
+CANDIDATE VARIABLES -24

@@ -1,0 +1,32 @@
+The capabilities of each selection are detailed below:
+READ BASELINE COST VALUES requests the name of the file that
+contains the baseline cost values. There are 11 baseline
+cost values for each component part: one development, five
+PEP (one for each production quantity), and five
+production. The DARPASS reads in the file of baseline cost
+values and then returns to the NEW DATABASE -UTILITIES
+menu.
+READ COST VARIABLES reads in the Primary and/or Secondary
+Cost Variables. The DARPASS then prorpts for the following
+information:
+ENTER FILZNAME:
+SPECIFY PHASE (1-DEVELOP, 2-PEP, 3-PROD):
+SPECIFY Quantity (5, 25, 50, 100, 150):
+SPECIFY VARIABLE (1 -12):
+The DARPASS reads in the cost reduction percentages for the
+selected phase, production quantity, and variable for all
+options (one to three). That is, each file should contain
+three cost options for each variable.
+USE EXISTING DATABASE
+When this option is selected, the user receives a prompt to
+input the name of the existing database. Once this is
+entered, the user receives the following menu:
+Existing Database -Utilities
+1 -Update Baseline Cost Values
+2 -Update Cost Variables
+3 -List All Records
+4 -List A Record
+5 -Add A Record
+6 -Edit A Record
+7 -Delete A Record
+DARPASS -Page 22

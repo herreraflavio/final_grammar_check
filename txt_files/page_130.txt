@@ -1,0 +1,24 @@
+HELP may be accessed by pressing a single Help key (F10)
+that is identified in a small help line at the bottom of the
+screen and offers help text for the current, highlighted
+variable. This operation is identical for all variables,
+both Primary and Secondary.
+When the HELP function is accessed, the current screen is
+replaced by a screen displaying a description of the
+variable and the four options available for each variable
+(B, 1, 2, 3). The user is then able to return to the
+display of the variables by pressing a single key. The
+information provided by each cost variable's HELP screen is
+shown in appendix A.
+The menu for the other group, Secondary Cost Variables, is
+provided below. It functions identically to the Primary
+Cost Variables menu.
+DARPA SPACE SYSTEM COST STUDY PROGRAM
+Secondary Cost Variables Baseline OPT 1 OPT 2 OPT 3
+6. Streamlining MGMT Operations
+7. Deliverable Documentation
+8. Production Efficiency
+9. Manual/Automated Manu & Test
+10. Technology Changes/Upgrades
+11. Size/Weight Constraints
+DARPASS -Page 6

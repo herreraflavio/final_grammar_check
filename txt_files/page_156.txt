@@ -1,0 +1,42 @@
+6) STREAMLINING MANAGEMENT OPERATIONS accounts for changes in
+the management philosophy. There are controllable
+programmatic factors that can reduce the level of management
+and streamline the management process.
+B) Formal and structured interface required with customer.
+C-Spec financial accounting compulsory together with many
+other compliance documents. Much interfacing is necessary
+to gather essential requirements.
+1) Management appears to have the capabilities to develop the
+required products. Due to product familiarity some project
+management tasks not necessary. Formal interface with
+customer needed.
+2) Good program management team. Much collocation of prime
+contractor and team members. Less formal customer interface
+required, minimal compliance specifications.
+3) Management has extensive experience in product area. Prime
+and team members are industry leaders in their respective
+product lines. Extensive collocation of prime contractor
+and team members. Informal customer interface required,
+minimal compliance specifications.
+7) LEVEL OF DELIVERABLE DOCUMENTATION REQUIRED addresses the
+cost of various levels of required documentation and reveals
+the associated costs of management and customer reviews.
+B) Large amount of documentation required, many reviews with
+top management approval. No tailoring of documentation
+content permitted. Customer reviews/updates to
+documentation are part of review process.
+1) Large amount of documentation required, frequent reviews
+with top management approval. Little tailoring of
+documentation content permitted. Customer reviews/updates
+to documentation are part of review process.
+2) Less extensive documentation required, less detailed review
+process. Tailoring is permitted to most documents; some
+in-house documentation permitted. Customer review less
+formal; most change traffic requires alteration to current
+baseline.
+3) Little documentation required, few formal reviews, heavy
+tailoring permitted. Most specifications are in-house or
+equivalent. Few documents required for submission.
+Customer review generally informal. Change traffic requires
+alteration to current baseline.
+A-3

@@ -1,0 +1,31 @@
+2.4.2 STATISTICAL INFORMATION -"PATH 2"
+This path provides statistics about the cost variables. For
+each run of the DARPASS program, the user may choose to
+receive information about the variable(s) that have been
+selected. In relative terms, this information shows the
+effect on cost of each variable independently and the total
+relative cost effect of all variables together. The
+reference costs represent expenditure under baseline
+conditions. Baseline conditions are the traditional, "start
+from scratch" method for developing flight hardware with
+many of the inherent inefficiencies. For example: if the
+user had selected four variables to evaluate during the
+input session, DARPASS would provide information on the cost
+effect of each individual variable and also the combined
+effect of all four.
+STATISTICAL INFORMATION DISPLAY SELECTIONS:
+Data Level
+1 -Spacecraft Totals
+2 -Subsystem Level
+3 -Component Parts
+4 -Totals Only
+Phase of Development
+1 -Development Phase
+2 -PEP Phase
+3 -Production Phase
+4 -Totals Only
+Level of Statistics
+Individual Statistics
+Composite Statistics
+DARPASS -Page 14
+.!-

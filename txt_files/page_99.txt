@@ -1,0 +1,36 @@
+5) MECHANICAL/STRUCTURAL MATERIALS AND TOLERANCES
+This variable relates cost to the types of materials used to
+produce the spacecraft/payload and the precision to which
+these parts must be produced.
+Weifht:
+Oualitative Scale
+B) New materials, composites, or difficult alloys. Parts
+and assemblies have very narrow tolerances. Some parts
+will require special manufacturing/assembly knowledge.
+Special cutting tools for machining operations will be
+required. Best available material and assembly
+techniques employed.
+1) Relatively new material/composites requiring special
+manufacturing or assembly expertise. Special beryllium
+and titanium compounds used for some structural
+components. Tolerances are difficult on many parts and
+assemblies. Properties of material are known but
+limited experience in working with material. Some
+special tools may be required.
+2) Typical material/composites with close but comfortable
+tolerances. Some attributes of the manufacturing/
+assembly process require special considerations. Less
+extensive quality control required for monitoring
+production effort.
+3) Simple aluminum composites or equivalent. No special
+tooling required for machining operations. Tolerancesare fairly easy to maintain on standard machine tools.
+Weight savings are not a factor.
+RCA Model Parameters
+Notes:
+-Impact on cost for development, PEP, and production
+activities.
+-Mechanical/structural items are the only parts receiving
+changes to complexity, weight, globals, and platform.
+-Change integration and test for mechanical/structural
+items only.
+CANDIDATE VARIABLES -9

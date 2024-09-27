@@ -1,0 +1,31 @@
+2.5.3 CONFIGURE OUTPUT REPORTS
+The third option from the PROGRAM CONFIGURATION MENU lets
+the user configure the output reports (See below). It
+provides the ability to summarize a group of co ,ponent parts
+under a summary name.
+Program Configuration
+1 -Add/Modify Mission Selections
+2 -Add/Modify Mission Databases
+3 -Configure Output Reports
+The reader should reference Section 2.4 of this document to
+see how this option is applied. This section details how
+the user can designate the desired output information. From
+Section 2.4, the first level output decision addresses the
+data level. The first menu for COST INFORMATION DISPLAY
+SELECTIONS is shown below:
+Data Level
+1 -Spacecraft Totals
+2 -Subsystem Level
+3 -Component Parts
+4 -Totals Only
+The first and second selections under this menu (SPACECRAFT
+TOTALS and SUBSYSTEM LEVEL) can be specifically configured
+by the user. The third option, COMPONENT PARTS, cannot be
+configured because it represents the lowest available cost
+summary level.
+When the user selects CONFIGURE OUTPUT REPORTS from the
+PROGRAM CONFIGURATION menu, a prompt is displayed that
+requires the user to indicate the database being configured:
+ENTER DATABASE FILENAME:
+DARPASS -Page 26
+1

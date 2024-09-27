@@ -1,0 +1,20 @@
+'-i
+COST INFORMATION -BAR GRAPH DISPLAYS
+1 SPACECRAFT TOTALS: Same as described for line graph
+displays -except the format of the graph is now a bar
+chart.
+2 SUBSYSTEM LEVEL: Same as described for line graph displays
+-except the format of the graph is now a bar chart.
+3 COMPONENT PARTS: The DARPASS does not provide graphical
+displays to the component part level.
+4 TOTALS ONLY: Same as described for line graph displays -
+except the format of the graph is now a bar chart.
+SEE FOLLOWING PAGES FOR COST INFORMATION
+BAR CHARTS DISPLAY EXAMPLES.
+B2S
+U",
+S
+B-22
+".'
+;%' : ;;,;; : ,: ' ,: ,2 .' ,,.'-'.:..?<'. ,...''  •. .' :-' '.' S~v..' ..9..'. '- "" "" .
+V ', %,

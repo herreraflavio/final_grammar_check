@@ -1,0 +1,40 @@
+ADD A RECORD operates in the same manner as described for
+LIST A RECORD except the DARPASS prompts for the information
+instead of displaying it. After the part code has been
+entered,
+ENTER PART CODE: 1.2.2.1.22
+SELECT PHASE (1-DEVELOP, 2-PEP, 3-PRODUCTION): 2
+ENTER VARIABLE (0 -12, 0 = BASLEINE): 10
+ENTER OPTION (I -3): 2
+ENTER PEP 5: 90
+ENTER PEP 25: 91
+ENTER PEP 50: 93
+ENTER PEP 100: 95
+ENTER PEP 150: 97
+The information input by the user should be the baseline
+cost values for all quantities (5, 25,..150) for each
+phase. The user should utilize the EDIT A RECORD option to
+enter percent reduction values for a part.
+EDIT A RECORD operates much like the LIST A RECORD option
+except values are modified rather than listed. Following is
+an example:
+ENTER PART CODE: 1.2.2.1.22
+SELECT PHASE (1-DEVELOP, 2-PEP, 3-PRODUCTION): 2
+GO ENTER VARIABLE (0 -12, 0 = BASELINE): 10
+ENTER OPTION (1 -3): 2
+ENTER PEP 5 (90): 80
+ENTER PEP 25 (91): 82
+ENTER PEP 50 (93): 84
+ENTER PEP 100 (95): 85
+ENTER PEP 150 (97): 86
+The values in parentheses represent the current values
+followed by the new values for that summary item as input by
+the user. The information provided is the percent reduction
+values or baseline cost values for all quantities (5,
+25,..150) for the phase and part selected.
+DELETE A RECORD eliminates an item from the database. An
+example has been provided below:
+ENTER PART CODE: 1.2.2.1.22
+DELETE PART? (Y OR N): Y
+DARPASS -Page 25
+-V

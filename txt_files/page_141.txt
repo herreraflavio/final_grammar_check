@@ -1,0 +1,21 @@
+2.5 FILE OPERATIONS/MAINTENANCE
+DARPA SPACE SYSTEM COST STUDY PROGRAM
+DARPASS Program Operations
+Designate Mission Baseline
+Input New Configuration
+Modify Existing Configuration
+Retrieve Configuration
+Save Configuration
+Execute
+File Operations/Maintenance
+Terminate & Return to DOS
+This option provides two distinct functions: the first
+function performs maintenance on files, and the second
+provides the capability to configure the program and the
+output reports. Entry is gained into the desired function
+by selecting one of the options from this menu.
+Maintenance Functions
+File Maintenance
+Program Configuration
+-
+DARPASS -Page 17
